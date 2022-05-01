@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e1c9ddf0-c55f-4e62-9c14-f0951c657abe" name="yami@YAMILEX 2015-10-24 04:20:41" runUser="YAMILEX\yami" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="607f8b6c-2431-4eb3-8939-f252dd3f80db">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="yami_YAMILEX 2015-10-24 04_20_41">
+      <DeploymentItem filename="E:\TMC\TMC\bin\Debug\TMC.exe" />
+      <DeploymentItem filename="E:\TMC\TMC\bin\Debug\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="E:\ACINOX Components\ACINOX Components\bin\Debug\ACINOX.dll" />
+      <DeploymentItem filename="E:\TMC\TMC\bin\Debug\NCalc.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-24T04:20:41.2132969-03:00" queuing="2015-10-24T04:20:42.6063766-03:00" start="2015-10-24T04:20:42.8053880-03:00" finish="2015-10-24T04:20:56.9001942-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="25" executed="3" passed="2" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="1" notExecuted="21" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="YAMILEX" outcome="Error" timestamp="2015-10-24T04:20:56.8921937-03:00">
+        <Text>El proceso del host de pruebas terminó inesperadamente.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetComposicionTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="d533369f-ef95-61de-851f-7f14b63c8041">
+      <Execution id="e40eaf73-c306-4ae4-887c-fbd92a86d39e" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetComposicionTest" />
+    </UnitTest>
+    <UnitTest name="ProjectObjectTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="d6383652-e0a4-f591-b9f1-9545278b7228">
+      <Execution id="23d0e2c2-0b8b-4689-b961-d9c715795b9d" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProjectObjectTest" />
+    </UnitTest>
+    <UnitTest name="SpesorTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="f786ff25-5539-a85c-e828-d51f67344fde">
+      <Execution id="6a7f3b52-484f-4c23-b91c-34b9aea9493b" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SpesorTest" />
+    </UnitTest>
+    <UnitTest name="MaterialesTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="2481ccdd-cfc2-da6a-7d5d-bc24b1620a04">
+      <Execution id="abede892-34de-483e-8900-b314267fe23f" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MaterialesTest" />
+    </UnitTest>
+    <UnitTest name="SIARAlgorithmConstructorTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="8ea7a7c4-749e-adde-b50c-45b18523ee91">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="407aaed2-cb3a-4593-9f4d-76d0a311962d" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SIARAlgorithmConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetSpesorTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="e0a21977-e264-8c96-26de-9a335ec7b5cf">
+      <Execution id="2f7e5080-324b-4a9d-8bd3-e9a6e023b3c0" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetSpesorTest" />
+    </UnitTest>
+    <UnitTest name="TDataSetTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="4d91a320-ea14-7cc7-252c-3cc1c7b142e2">
+      <Execution id="b935a283-3370-420a-b271-25aecaba8d11" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TDataSetTest" />
+    </UnitTest>
+    <UnitTest name="CostoTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="ce31098b-d9c7-3055-28f3-234dea122832">
+      <Execution id="8283d6c1-6863-4004-8818-e8b791d1fdd8" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CostoTest" />
+    </UnitTest>
+    <UnitTest name="LamdaTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="3156c5d7-187d-6780-f47e-1c4b47dc791e">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="55690d46-3539-488a-8a52-d7409130f225" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LamdaTest" />
+    </UnitTest>
+    <UnitTest name="EspesorTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="60cc0024-8fde-0615-0958-b27db5a00992">
+      <Execution id="55a93d29-3d83-464a-a1c1-a7252908a3b6" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EspesorTest" />
+    </UnitTest>
+    <UnitTest name="VolumenTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="1f0d3872-3d89-ddd7-c26c-88b8cdfaebef">
+      <Execution id="06e5fdbb-dd39-4938-999a-1d9687e82c05" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VolumenTest" />
+    </UnitTest>
+    <UnitTest name="GetAlphaExternoTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="9b11cded-4a4e-84a5-2c78-8b0746ca8b27">
+      <Execution id="f60cce68-143c-4fb0-ab97-4d1b922350eb" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAlphaExternoTest" />
+    </UnitTest>
+    <UnitTest name="PesoTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="891031eb-a5ea-caac-765e-39b3913ed33b">
+      <Execution id="12c5e95e-a88f-4081-9caa-212cd399be8e" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PesoTest" />
+    </UnitTest>
+    <UnitTest name="TempExternaTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="50479122-b343-6c21-a99d-5015997c5a49">
+      <Execution id="9de1bff2-4f10-4460-b468-6e394f20c502" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TempExternaTest" />
+    </UnitTest>
+    <UnitTest name="CompareTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="e737cb5a-f9b7-f821-5532-44d393d1d635">
+      <Execution id="cbbd6e2d-2f84-4a3e-a45e-92b653dbc019" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CompareTest" />
+    </UnitTest>
+    <UnitTest name="SiSParcialTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="8333709e-7c34-8f8f-6d47-225cfe519466">
+      <Execution id="b7dff683-eaf6-4b1e-8c89-cf38fe53a88c" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SiSParcialTest" />
+    </UnitTest>
+    <UnitTest name="EST_SEG_TEMPTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="3f76ec95-7759-d8f2-ecbe-b6d15cf99c2d">
+      <Execution id="ecf25627-a7df-4018-94b3-22b443e81268" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EST_SEG_TEMPTest" />
+    </UnitTest>
+    <UnitTest name="ProjectTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="37024a35-286c-2a76-887f-ec372e0eea46">
+      <Execution id="39c3faa6-ccb2-489a-b3e9-03dac2630161" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProjectTest" />
+    </UnitTest>
+    <UnitTest name="EST_LAMB_TEMPTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="d4ddb7ce-2e93-ec97-f3f3-328e6ddff1c3">
+      <Execution id="de64a1cf-ce25-4f1e-a5d3-f6ee723bfddb" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EST_LAMB_TEMPTest" />
+    </UnitTest>
+    <UnitTest name="EST_INTER_TEMPTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="84756d70-b361-fcbc-0f10-6bed897863ea">
+      <Execution id="c80ae94f-1cfd-4a0b-83db-55244cd5c66c" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EST_INTER_TEMPTest" />
+    </UnitTest>
+    <UnitTest name="GetDiseñoTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="ae2c1285-ec23-0ef7-cf6a-763c2331c0dc">
+      <Execution id="d59bd411-933e-4446-979d-6fd4a9b9c8bd" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetDiseñoTest" />
+    </UnitTest>
+    <UnitTest name="FlujoCaloricoTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="d038c8d4-4e44-8b85-6d3e-60f9575d8194">
+      <Execution id="274cf2fc-248b-4604-b3f1-5c78f41bebb8" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FlujoCaloricoTest" />
+    </UnitTest>
+    <UnitTest name="ClearListTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="e283fa52-b2bf-6e5e-21a1-5c29357ff1eb">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="bd16cac5-9fb7-41bc-bc9f-0b82cd78f3ba" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ClearListTest" />
+    </UnitTest>
+    <UnitTest name="PerdidaTotalTest" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="b1342a16-0c03-ae52-8fb1-87727bd11fe1">
+      <Execution id="2d5dbbd2-6fb5-4c63-92c3-803fa021d12b" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.SIARAlgorithmTest, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerdidaTotalTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="e:\tmc\prueba_sistema\bin\debug\prueba_sistema.dll" id="2364cd82-690a-3e37-ca16-ba137da063d6">
+      <Execution id="177c0d65-73c2-43c8-9bc6-d193a38a4433" />
+      <TestMethod codeBase="E:/TMC/Prueba_Sistema/bin/Debug/Prueba_Sistema.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Prueba_Sistema.UnitTest1, Prueba_Sistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2364cd82-690a-3e37-ca16-ba137da063d6" executionId="177c0d65-73c2-43c8-9bc6-d193a38a4433" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e737cb5a-f9b7-f821-5532-44d393d1d635" executionId="cbbd6e2d-2f84-4a3e-a45e-92b653dbc019" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e283fa52-b2bf-6e5e-21a1-5c29357ff1eb" executionId="bd16cac5-9fb7-41bc-bc9f-0b82cd78f3ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84756d70-b361-fcbc-0f10-6bed897863ea" executionId="c80ae94f-1cfd-4a0b-83db-55244cd5c66c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d4ddb7ce-2e93-ec97-f3f3-328e6ddff1c3" executionId="de64a1cf-ce25-4f1e-a5d3-f6ee723bfddb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3f76ec95-7759-d8f2-ecbe-b6d15cf99c2d" executionId="ecf25627-a7df-4018-94b3-22b443e81268" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b11cded-4a4e-84a5-2c78-8b0746ca8b27" executionId="f60cce68-143c-4fb0-ab97-4d1b922350eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d533369f-ef95-61de-851f-7f14b63c8041" executionId="e40eaf73-c306-4ae4-887c-fbd92a86d39e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae2c1285-ec23-0ef7-cf6a-763c2331c0dc" executionId="d59bd411-933e-4446-979d-6fd4a9b9c8bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0a21977-e264-8c96-26de-9a335ec7b5cf" executionId="2f7e5080-324b-4a9d-8bd3-e9a6e023b3c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3156c5d7-187d-6780-f47e-1c4b47dc791e" executionId="55690d46-3539-488a-8a52-d7409130f225" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8333709e-7c34-8f8f-6d47-225cfe519466" executionId="b7dff683-eaf6-4b1e-8c89-cf38fe53a88c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce31098b-d9c7-3055-28f3-234dea122832" executionId="8283d6c1-6863-4004-8818-e8b791d1fdd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60cc0024-8fde-0615-0958-b27db5a00992" executionId="55a93d29-3d83-464a-a1c1-a7252908a3b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d038c8d4-4e44-8b85-6d3e-60f9575d8194" executionId="274cf2fc-248b-4604-b3f1-5c78f41bebb8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2481ccdd-cfc2-da6a-7d5d-bc24b1620a04" executionId="abede892-34de-483e-8900-b314267fe23f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b1342a16-0c03-ae52-8fb1-87727bd11fe1" executionId="2d5dbbd2-6fb5-4c63-92c3-803fa021d12b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="891031eb-a5ea-caac-765e-39b3913ed33b" executionId="12c5e95e-a88f-4081-9caa-212cd399be8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37024a35-286c-2a76-887f-ec372e0eea46" executionId="39c3faa6-ccb2-489a-b3e9-03dac2630161" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6383652-e0a4-f591-b9f1-9545278b7228" executionId="23d0e2c2-0b8b-4689-b961-d9c715795b9d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f786ff25-5539-a85c-e828-d51f67344fde" executionId="6a7f3b52-484f-4c23-b91c-34b9aea9493b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d91a320-ea14-7cc7-252c-3cc1c7b142e2" executionId="b935a283-3370-420a-b271-25aecaba8d11" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="50479122-b343-6c21-a99d-5015997c5a49" executionId="9de1bff2-4f10-4460-b468-6e394f20c502" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f0d3872-3d89-ddd7-c26c-88b8cdfaebef" executionId="06e5fdbb-dd39-4938-999a-1d9687e82c05" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ea7a7c4-749e-adde-b50c-45b18523ee91" executionId="407aaed2-cb3a-4593-9f4d-76d0a311962d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="177c0d65-73c2-43c8-9bc6-d193a38a4433" testId="2364cd82-690a-3e37-ca16-ba137da063d6" testName="TestMethod1" computerName="YAMILEX" duration="00:00:00.0113561" startTime="2015-10-24T04:20:42.9733976-03:00" endTime="2015-10-24T04:20:43.7564424-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="177c0d65-73c2-43c8-9bc6-d193a38a4433">
+    </UnitTestResult>
+    <UnitTestResult executionId="cbbd6e2d-2f84-4a3e-a45e-92b653dbc019" testId="e737cb5a-f9b7-f821-5532-44d393d1d635" testName="CompareTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cbbd6e2d-2f84-4a3e-a45e-92b653dbc019">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: la firma del método CompareTest definido en la clase Prueba_Sistema.SIARAlgorithmTest no es correcta. El método de prueba marcado con el atributo [TestMethod] debe ser no estático, público, no debe devolver ningún valor ni tomar ningún parámetro. Por ejemplo: public void Test.Class1.Test().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bd16cac5-9fb7-41bc-bc9f-0b82cd78f3ba" testId="e283fa52-b2bf-6e5e-21a1-5c29357ff1eb" testName="ClearListTest" computerName="YAMILEX" duration="00:00:04.2005890" startTime="2015-10-24T04:20:43.7784436-03:00" endTime="2015-10-24T04:20:47.9996851-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd16cac5-9fb7-41bc-bc9f-0b82cd78f3ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="c80ae94f-1cfd-4a0b-83db-55244cd5c66c" testId="84756d70-b361-fcbc-0f10-6bed897863ea" testName="EST_INTER_TEMPTest" computerName="YAMILEX" duration="00:00:08.7725017" startTime="2015-10-24T04:20:48.1216921-03:00" endTime="2015-10-24T04:20:56.8941938-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c80ae94f-1cfd-4a0b-83db-55244cd5c66c">
+    </UnitTestResult>
+    <UnitTestResult executionId="de64a1cf-ce25-4f1e-a5d3-f6ee723bfddb" testId="d4ddb7ce-2e93-ec97-f3f3-328e6ddff1c3" testName="EST_LAMB_TEMPTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de64a1cf-ce25-4f1e-a5d3-f6ee723bfddb">
+    </UnitTestResult>
+    <UnitTestResult executionId="ecf25627-a7df-4018-94b3-22b443e81268" testId="3f76ec95-7759-d8f2-ecbe-b6d15cf99c2d" testName="EST_SEG_TEMPTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ecf25627-a7df-4018-94b3-22b443e81268">
+    </UnitTestResult>
+    <UnitTestResult executionId="f60cce68-143c-4fb0-ab97-4d1b922350eb" testId="9b11cded-4a4e-84a5-2c78-8b0746ca8b27" testName="GetAlphaExternoTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f60cce68-143c-4fb0-ab97-4d1b922350eb">
+    </UnitTestResult>
+    <UnitTestResult executionId="e40eaf73-c306-4ae4-887c-fbd92a86d39e" testId="d533369f-ef95-61de-851f-7f14b63c8041" testName="GetComposicionTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e40eaf73-c306-4ae4-887c-fbd92a86d39e">
+    </UnitTestResult>
+    <UnitTestResult executionId="d59bd411-933e-4446-979d-6fd4a9b9c8bd" testId="ae2c1285-ec23-0ef7-cf6a-763c2331c0dc" testName="GetDiseñoTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d59bd411-933e-4446-979d-6fd4a9b9c8bd">
+    </UnitTestResult>
+    <UnitTestResult executionId="2f7e5080-324b-4a9d-8bd3-e9a6e023b3c0" testId="e0a21977-e264-8c96-26de-9a335ec7b5cf" testName="GetSpesorTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f7e5080-324b-4a9d-8bd3-e9a6e023b3c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="55690d46-3539-488a-8a52-d7409130f225" testId="3156c5d7-187d-6780-f47e-1c4b47dc791e" testName="LamdaTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55690d46-3539-488a-8a52-d7409130f225">
+    </UnitTestResult>
+    <UnitTestResult executionId="b7dff683-eaf6-4b1e-8c89-cf38fe53a88c" testId="8333709e-7c34-8f8f-6d47-225cfe519466" testName="SiSParcialTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7dff683-eaf6-4b1e-8c89-cf38fe53a88c">
+    </UnitTestResult>
+    <UnitTestResult executionId="8283d6c1-6863-4004-8818-e8b791d1fdd8" testId="ce31098b-d9c7-3055-28f3-234dea122832" testName="CostoTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8283d6c1-6863-4004-8818-e8b791d1fdd8">
+    </UnitTestResult>
+    <UnitTestResult executionId="55a93d29-3d83-464a-a1c1-a7252908a3b6" testId="60cc0024-8fde-0615-0958-b27db5a00992" testName="EspesorTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55a93d29-3d83-464a-a1c1-a7252908a3b6">
+    </UnitTestResult>
+    <UnitTestResult executionId="274cf2fc-248b-4604-b3f1-5c78f41bebb8" testId="d038c8d4-4e44-8b85-6d3e-60f9575d8194" testName="FlujoCaloricoTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="274cf2fc-248b-4604-b3f1-5c78f41bebb8">
+    </UnitTestResult>
+    <UnitTestResult executionId="abede892-34de-483e-8900-b314267fe23f" testId="2481ccdd-cfc2-da6a-7d5d-bc24b1620a04" testName="MaterialesTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="abede892-34de-483e-8900-b314267fe23f">
+    </UnitTestResult>
+    <UnitTestResult executionId="2d5dbbd2-6fb5-4c63-92c3-803fa021d12b" testId="b1342a16-0c03-ae52-8fb1-87727bd11fe1" testName="PerdidaTotalTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d5dbbd2-6fb5-4c63-92c3-803fa021d12b">
+    </UnitTestResult>
+    <UnitTestResult executionId="12c5e95e-a88f-4081-9caa-212cd399be8e" testId="891031eb-a5ea-caac-765e-39b3913ed33b" testName="PesoTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12c5e95e-a88f-4081-9caa-212cd399be8e">
+    </UnitTestResult>
+    <UnitTestResult executionId="39c3faa6-ccb2-489a-b3e9-03dac2630161" testId="37024a35-286c-2a76-887f-ec372e0eea46" testName="ProjectTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39c3faa6-ccb2-489a-b3e9-03dac2630161">
+    </UnitTestResult>
+    <UnitTestResult executionId="23d0e2c2-0b8b-4689-b961-d9c715795b9d" testId="d6383652-e0a4-f591-b9f1-9545278b7228" testName="ProjectObjectTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23d0e2c2-0b8b-4689-b961-d9c715795b9d">
+    </UnitTestResult>
+    <UnitTestResult executionId="6a7f3b52-484f-4c23-b91c-34b9aea9493b" testId="f786ff25-5539-a85c-e828-d51f67344fde" testName="SpesorTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a7f3b52-484f-4c23-b91c-34b9aea9493b">
+    </UnitTestResult>
+    <UnitTestResult executionId="b935a283-3370-420a-b271-25aecaba8d11" testId="4d91a320-ea14-7cc7-252c-3cc1c7b142e2" testName="TDataSetTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b935a283-3370-420a-b271-25aecaba8d11">
+    </UnitTestResult>
+    <UnitTestResult executionId="9de1bff2-4f10-4460-b468-6e394f20c502" testId="50479122-b343-6c21-a99d-5015997c5a49" testName="TempExternaTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9de1bff2-4f10-4460-b468-6e394f20c502">
+    </UnitTestResult>
+    <UnitTestResult executionId="06e5fdbb-dd39-4938-999a-1d9687e82c05" testId="1f0d3872-3d89-ddd7-c26c-88b8cdfaebef" testName="VolumenTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="06e5fdbb-dd39-4938-999a-1d9687e82c05">
+    </UnitTestResult>
+    <UnitTestResult executionId="407aaed2-cb3a-4593-9f4d-76d0a311962d" testId="8ea7a7c4-749e-adde-b50c-45b18523ee91" testName="SIARAlgorithmConstructorTest" computerName="YAMILEX" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="407aaed2-cb3a-4593-9f4d-76d0a311962d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

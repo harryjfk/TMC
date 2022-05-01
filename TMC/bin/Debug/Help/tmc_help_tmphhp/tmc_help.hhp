@@ -1,0 +1,65 @@
+[OPTIONS]
+Language=0x409 English (United States)
+Default Font=Arial,8,0
+TITLE=TMC_Help
+Full-text search=Yes
+Display compile notes=YES
+Display compile progress=YES
+Compatibility=1.1
+Auto Index=Yes
+Default Window=Main
+Compiled file=tmc_help.chm
+Error Log file=tmc_help.log
+Contents file=tmc_help.hhc
+Index File=tmc_help.hhk
+Default Topic=GettingStarted.html
+
+[FILES]
+GettingStarted.html
+ContactingUs.html
+IntroducingYourProduct.html
+FileMenu.html
+nuevo.html
+abrir.html
+guardar.html
+general.html
+propiedades-fisicas.html
+popiedades-de-produccion.html
+propiedades-termo-mecanicas.html
+generaal.html
+propiedades-fisicas2.html
+propiedades-de-produccion2.html
+propiedades-termo-mecanicas2.html
+eliminar.html
+grado-ph.html
+tipo-formato.html
+degradado.html
+ventanas.html
+crear-nueva-tecnologia.html
+simulacion.html
+explorarcion.html
+datos-tecnicos.html
+maquina.html
+cam.html
+FAQ.html
+HowToBuy.html
+bienvenido.html
+
+
+
+
+[WINDOWS]
+Main="TMC_Help","tmc_help.hhc","tmc_help.hhk","GettingStarted.html","GettingStarted.html",,,,,0x61520,200,0x384e,[50,50,450,450],0x307e,,,,,,0
+Popup="Popup","tmc_help.hhc","tmc_help.hhk","GettingStarted.html","GettingStarted.html", ,,,,0x00061520,200, 0x0000384E,[50,50,450,450],0x307e,0x8,,,,,0
+
+
+[MAP]
+#include tmc_help.h
+
+
+
+[TEXT POPUPS]
+CSHelp.txt
+
+ 
+

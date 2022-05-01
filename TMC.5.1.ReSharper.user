@@ -1,0 +1,1363 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="63" />
+      <Item value="dialog" priority="4" />
+      <Item value="MasterForm`0" priority="29" />
+      <Item value="Application`0" priority="7" />
+      <Item value="form" priority="3" />
+      <Item value="dockPanel1" priority="0" />
+      <Item value="sender" priority="6" />
+      <Item value="barButtonItem6" priority="0" />
+      <Item value="false" priority="6" />
+      <Item value="e" priority="7" />
+      <Item value="Visible" priority="0" />
+      <Item value="Form1`0" priority="2" />
+      <Item value="ModuleList" priority="6" />
+      <Item value="frmMain" priority="18" />
+      <Item value="true" priority="12" />
+      <Item value="Left" priority="1" />
+      <Item value="virtual" priority="0" />
+      <Item value="null" priority="47" />
+      <Item value="r" priority="34" />
+      <Item value="partial" priority="3" />
+      <Item value="void" priority="14" />
+      <Item value="DockPanel`0" priority="4" />
+      <Item value="CopyDockPanel`0" priority="1" />
+      <Item value="dest" priority="3" />
+      <Item value="src" priority="4" />
+      <Item value="while" priority="0" />
+      <Item value="int" priority="27" />
+      <Item value="BarButtonItem`0" priority="2" />
+      <Item value="public" priority="39" />
+      <Item value="FrmMain`0" priority="1" />
+      <Item value="var" priority="157" />
+      <Item value="CreateForm`0" priority="5" />
+      <Item value="barButtonItem10" priority="0" />
+      <Item value="treeList1" priority="1" />
+      <Item value="barButtonItem1" priority="2" />
+      <Item value="DSRD`0" priority="40" />
+      <Item value="class" priority="2" />
+      <Item value="t_ElementoTableAdapter1" priority="0" />
+      <Item value="t_Elemento_OxidoTableAdapter1" priority="0" />
+      <Item value="dSDatos" priority="11" />
+      <Item value="Close`0" priority="12" />
+      <Item value="RD" priority="1" />
+      <Item value="Tareas" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="new" priority="82" />
+      <Item value="s" priority="22" />
+      <Item value="Project" priority="8" />
+      <Item value="ucPropertyTempControl1" priority="0" />
+      <Item value="value" priority="22" />
+      <Item value="Algorithm" priority="11" />
+      <Item value="t_DegradeeTableAdapter1" priority="0" />
+      <Item value="temp" priority="0" />
+      <Item value="Components" priority="0" />
+      <Item value="TemperatureControl" priority="0" />
+      <Item value="Properties" priority="1" />
+      <Item value="TAMP" priority="0" />
+      <Item value="buttonEdit" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="internal" priority="1" />
+      <Item value="ChildChanged`0" priority="0" />
+      <Item value="if" priority="121" />
+      <Item value="OnChildChanged" priority="1" />
+      <Item value="this" priority="5" />
+      <Item value="page" priority="3" />
+      <Item value="barButtonItem9" priority="0" />
+      <Item value="Form`0" priority="0" />
+      <Item value="is" priority="6" />
+      <Item value="FrmEstudio`0" priority="0" />
+      <Item value="frmSettings" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="NonSerialized" priority="1" />
+      <Item value="FrmTempInicial`0" priority="0" />
+      <Item value="FrmIni" priority="1" />
+      <Item value="ucCompleteProperty1" priority="19" />
+      <Item value="OK" priority="13" />
+      <Item value="private" priority="25" />
+      <Item value="SIARAlgorithm`0" priority="2" />
+      <Item value="_algorithm" priority="1" />
+      <Item value="double" priority="67" />
+      <Item value="textEdit1" priority="2" />
+      <Item value="checkEdit1" priority="2" />
+      <Item value="MoverRectangle" priority="0" />
+      <Item value="_combo" priority="1" />
+      <Item value="ControlSize" priority="1" />
+      <Item value="_labelt" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="li" priority="1" />
+      <Item value="ri" priority="1" />
+      <Item value="Rectangle" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="_selectControl" priority="2" />
+      <Item value="Graphics`0" priority="0" />
+      <Item value="DrawIndicator`0" priority="0" />
+      <Item value="GetInformationRect`0" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Pen" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="i" priority="9" />
+      <Item value="c" priority="1" />
+      <Item value="q" priority="18" />
+      <Item value="TempList" priority="2" />
+      <Item value="TreeListAutoFilterNode`0" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="m" priority="2" />
+      <Item value="UpdateTree`0" priority="0" />
+      <Item value="DesignTree" priority="1" />
+      <Item value="string" priority="10" />
+      <Item value="name" priority="7" />
+      <Item value="AddTree`0" priority="3" />
+      <Item value="List" priority="28" />
+      <Item value="t" priority="56" />
+      <Item value="foreach" priority="36" />
+      <Item value="panel" priority="2" />
+      <Item value="w" priority="27" />
+      <Item value="break" priority="9" />
+      <Item value="Volumen" priority="0" />
+      <Item value="Espesor" priority="1" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="Recalculate`0" priority="1" />
+      <Item value="else" priority="28" />
+      <Item value="UpdateMaterial`0" priority="0" />
+      <Item value="chartControl1" priority="2" />
+      <Item value="series" priority="3" />
+      <Item value="FileStream`0" priority="1" />
+      <Item value="filename" priority="0" />
+      <Item value="FileMode`0" priority="0" />
+      <Item value="SaveToStream`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="materiale" priority="0" />
+      <Item value="T_MaterialTableAdapter`0" priority="1" />
+      <Item value="dataset" priority="5" />
+      <Item value="ta" priority="1" />
+      <Item value="Name" priority="2" />
+      <Item value="data" priority="9" />
+      <Item value="Data" priority="0" />
+      <Item value="Comentario" priority="0" />
+      <Item value="CreatePropFisicas`0" priority="0" />
+      <Item value="CreatePropTermodinamicoas`0" priority="0" />
+      <Item value="CreatePropProduccion`0" priority="0" />
+      <Item value="Message`0" priority="0" />
+      <Item value="DSMCC`0" priority="0" />
+      <Item value="DataRowView`0" priority="5" />
+      <Item value="tTecnologiaBindingSource" priority="0" />
+      <Item value="tec" priority="0" />
+      <Item value="dSMCC" priority="1" />
+      <Item value="Tecnologia" priority="0" />
+      <Item value="popupControlContainer1" priority="0" />
+      <Item value="ShowWithoutActivation" priority="0" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="8" />
+      <Item value="default" priority="1" />
+      <Item value="TPropiedad_TermodinamicabindingSource" priority="0" />
+      <Item value="xtraTabControl1" priority="3" />
+      <Item value="textEdit2" priority="1" />
+      <Item value="Propiedad_Termodinamica" priority="0" />
+      <Item value="textEdit9" priority="0" />
+      <Item value="Propiedad" priority="3" />
+      <Item value="textEdit4" priority="0" />
+      <Item value="textEdit6" priority="1" />
+      <Item value="gridLookUpEdit1" priority="6" />
+      <Item value="textEdit7" priority="0" />
+      <Item value="idmaterial" priority="5" />
+      <Item value="GenerateList`0" priority="12" />
+      <Item value="res" priority="10" />
+      <Item value="for" priority="3" />
+      <Item value="p" priority="5" />
+      <Item value="max" priority="1" />
+      <Item value="List&lt;double&gt;" priority="4" />
+      <Item value="ListJoiner`0" priority="0" />
+      <Item value="j" priority="2" />
+      <Item value="tipoformato" priority="2" />
+      <Item value="tFormatoRow" priority="1" />
+      <Item value="dxValidationProvider1" priority="3" />
+      <Item value="material" priority="0" />
+      <Item value="DialogResult" priority="7" />
+      <Item value="Cancel" priority="0" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="checkEdit2" priority="2" />
+      <Item value="comboBoxEdit1" priority="3" />
+      <Item value="comboBoxEdit2" priority="2" />
+      <Item value="comboBoxEdit3" priority="0" />
+      <Item value="frmadd" priority="1" />
+      <Item value="rep" priority="0" />
+      <Item value="Parameter`0" priority="0" />
+      <Item value="AppearanceLayoutHelper`0" priority="0" />
+      <Item value="param" priority="2" />
+      <Item value="TDataSet" priority="3" />
+      <Item value="XtraReports" priority="0" />
+      <Item value="Parameters" priority="0" />
+      <Item value="Parameter" priority="1" />
+      <Item value="Description" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="materialRow" priority="4" />
+      <Item value="Spesor" priority="1" />
+      <Item value="index" priority="2" />
+      <Item value="ts" priority="0" />
+      <Item value="t_Balance_PropiedadTableAdapter" priority="1" />
+      <Item value="dSBCE" priority="36" />
+      <Item value="t_Balance_CompDefaultAllTableAdapter" priority="0" />
+      <Item value="tBalanceCompDefaultBindingSource" priority="3" />
+      <Item value="t_Balance_CompDefaultTableAdapter" priority="0" />
+      <Item value="barButtonItem2" priority="0" />
+      <Item value="Bar`0" priority="0" />
+      <Item value="_edit" priority="2" />
+      <Item value="edit" priority="5" />
+      <Item value="t_Proyecto_Balance_BCTableAdapter" priority="2" />
+      <Item value="Dictionary" priority="57" />
+      <Item value="String`0" priority="76" />
+      <Item value="EnvironmentVariableTarget`0" priority="5" />
+      <Item value="BaseAcero" priority="0" />
+      <Item value="AcLiquido" priority="0" />
+      <Item value="en" priority="0" />
+      <Item value="CO2" priority="1" />
+      <Item value="Carbon_Ignicion" priority="0" />
+      <Item value="Vol_Aire" priority="0" />
+      <Item value="Vol_Nitrogeno" priority="0" />
+      <Item value="Dens_Nitrogeno" priority="0" />
+      <Item value="Dens_Oxigeno" priority="0" />
+      <Item value="Vol_Oxigeno" priority="0" />
+      <Item value="Oxigeno_EficInyectado" priority="0" />
+      <Item value="General" priority="17" />
+      <Item value="Metal" priority="13" />
+      <Item value="Carga" priority="27" />
+      <Item value="DSBCE`0" priority="17" />
+      <Item value="elemtableapapter" priority="0" />
+      <Item value="dsbce" priority="26" />
+      <Item value="idproject" priority="2" />
+      <Item value="ind" priority="0" />
+      <Item value="DisplayTextEvaluator`0" priority="0" />
+      <Item value="acl" priority="0" />
+      <Item value="Elementos" priority="10" />
+      <Item value="MetalACL" priority="5" />
+      <Item value="GenericUriParser`0" priority="0" />
+      <Item value="Cargas" priority="5" />
+      <Item value="anterior" priority="1" />
+      <Item value="C_Carga" priority="0" />
+      <Item value="Carga_Acl" priority="8" />
+      <Item value="Mn_Carga" priority="0" />
+      <Item value="name2" priority="2" />
+      <Item value="SI_Carga" priority="0" />
+      <Item value="P_Carga" priority="0" />
+      <Item value="S_Carga" priority="0" />
+      <Item value="Fe_Carga" priority="0" />
+      <Item value="elemento" priority="7" />
+      <Item value="Perdida" priority="2" />
+      <Item value="PerdidaP" priority="0" />
+      <Item value="tot" priority="4" />
+      <Item value="Polvo" priority="0" />
+      <Item value="oxidos" priority="12" />
+      <Item value="keyValuePair" priority="49" />
+      <Item value="oxidosformados" priority="1" />
+      <Item value="Fe_Escoria" priority="0" />
+      <Item value="p1" priority="4" />
+      <Item value="p2" priority="2" />
+      <Item value="oxidosrequeridos" priority="0" />
+      <Item value="igniciond" priority="7" />
+      <Item value="Ignicion" priority="2" />
+      <Item value="ValorPonderado`0" priority="0" />
+      <Item value="vaLoresPonderados" priority="0" />
+      <Item value="float" priority="3" />
+      <Item value="CO" priority="0" />
+      <Item value="GenerateList2`0" priority="2" />
+      <Item value="Double`0" priority="1" />
+      <Item value="ACL" priority="1" />
+      <Item value="nameelmento" priority="3" />
+      <Item value="FeO_Carga" priority="5" />
+      <Item value="Object`0" priority="2" />
+      <Item value="Result" priority="1" />
+      <Item value="Dictionary&lt;string,double&gt;" priority="4" />
+      <Item value="object" priority="2" />
+      <Item value="nameelemento" priority="1" />
+      <Item value="ecuacion1" priority="0" />
+      <Item value="concepto" priority="0" />
+      <Item value="DataGridViewCellValidatingEventArgs`0" priority="0" />
+      <Item value="CFEO_Reduc" priority="0" />
+      <Item value="carga" priority="5" />
+      <Item value="valoresPonderados" priority="0" />
+      <Item value="Feo203_Carga" priority="2" />
+      <Item value="C_Reduc" priority="0" />
+      <Item value="dictionary" priority="8" />
+      <Item value="AddToDictionary`0" priority="2" />
+      <Item value="key" priority="4" />
+      <Item value="using" priority="2" />
+      <Item value="System" priority="1" />
+      <Item value="Linq" priority="1" />
+      <Item value="tipopropiedad" priority="2" />
+      <Item value="propiedad" priority="0" />
+      <Item value="from" priority="3" />
+      <Item value="select" priority="2" />
+      <Item value="where" priority="1" />
+      <Item value="Concepto" priority="0" />
+      <Item value="balance" priority="0" />
+      <Item value="GetFromDictionary`0" priority="2" />
+      <Item value="indices" priority="0" />
+      <Item value="IndiceConsumo`0" priority="1" />
+      <Item value="a" priority="4" />
+      <Item value="b" priority="0" />
+      <Item value="oxido" priority="71" />
+      <Item value="oxidosres" priority="7" />
+      <Item value="pa" priority="3" />
+      <Item value="retornar" priority="0" />
+      <Item value="pm" priority="1" />
+      <Item value="oxidow" priority="2" />
+      <Item value="flag" priority="1" />
+      <Item value="Escoria" priority="6" />
+      <Item value="Gases" priority="5" />
+      <Item value="bindingSource1" priority="5" />
+      <Item value="List&lt;T_Patron_Balance_DescRow&gt;" priority="0" />
+      <Item value="oxidosRes" priority="1" />
+      <Item value="row" priority="10" />
+      <Item value="idpatron" priority="6" />
+      <Item value="prop" priority="2" />
+      <Item value="props" priority="1" />
+      <Item value="DSBCETableAdapters" priority="1" />
+      <Item value="T_ElementoTableAdapter`0" priority="0" />
+      <Item value="element" priority="0" />
+      <Item value="T_Balance_PropiedadTableAdapter`0" priority="0" />
+      <Item value="proptable" priority="0" />
+      <Item value="patronBalanceDescRow" priority="1" />
+      <Item value="t_Patron_Balance_DescTableAdapter" priority="1" />
+      <Item value="MessageBox`0" priority="4" />
+      <Item value="YesNo" priority="3" />
+      <Item value="Question" priority="4" />
+      <Item value="Yes" priority="2" />
+      <Item value="dsbce1" priority="0" />
+      <Item value="dsbce2" priority="2" />
+      <Item value="particion" priority="0" />
+      <Item value="Math`0" priority="15" />
+      <Item value="tPatronBalanceBindingSource" priority="6" />
+      <Item value="FrmNewPatron`0" priority="0" />
+      <Item value="k" priority="5" />
+      <Item value="ele" priority="0" />
+      <Item value="t_Balance_PropiedadTableAdapter1" priority="0" />
+      <Item value="t_Patron_BalanceTableAdapter" priority="2" />
+      <Item value="VARIABLE" priority="0" />
+      <Item value="l" priority="0" />
+      <Item value="t_Tipo_Propiedad_BalanceTableAdapter" priority="0" />
+      <Item value="t_ElementoTableAdapter" priority="0" />
+      <Item value="t_Proyecto_Balance_BCGridControl" priority="0" />
+      <Item value="GridView`0" priority="0" />
+      <Item value="gridView" priority="3" />
+      <Item value="gridView4" priority="0" />
+      <Item value="Settings" priority="3" />
+      <Item value="GetDictionaryFromGridView`0" priority="1" />
+      <Item value="gridView1" priority="2" />
+      <Item value="gridView2" priority="0" />
+      <Item value="Default_Carga" priority="0" />
+      <Item value="tempElementoBindingSource" priority="0" />
+      <Item value="tPatronBalanceDescBindingSource" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="Masa" priority="0" />
+      <Item value="_settings" priority="0" />
+      <Item value="XtraForm`0" priority="1" />
+      <Item value="XtraMessageBox`0" priority="5" />
+      <Item value="Text" priority="2" />
+      <Item value="t_Project_BalanceTableAdapter" priority="0" />
+      <Item value="_idproject" priority="1" />
+      <Item value="t_Project_BalanceTableAdapter1" priority="2" />
+      <Item value="FrmManageProject`0" priority="0" />
+      <Item value="DSBCE" priority="2" />
+      <Item value="tProjectBalanceBindingSource" priority="3" />
+      <Item value="Error" priority="1" />
+      <Item value="FrmOpenProject`0" priority="0" />
+      <Item value="FrmProject`0" priority="3" />
+      <Item value="MdiParent" priority="0" />
+      <Item value="simpleLabelItem1" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="tempElementoBindingSource1" priority="0" />
+      <Item value="Tot_Carga" priority="2" />
+      <Item value="r2" priority="0" />
+      <Item value="FrmProject_Load`0" priority="0" />
+      <Item value="in" priority="1" />
+      <Item value="reses" priority="1" />
+      <Item value="Totales" priority="1" />
+      <Item value="catch" priority="0" />
+      <Item value="CreateTabs`0" priority="0" />
+      <Item value="title" priority="1" />
+      <Item value="CreateTree`0" priority="1" />
+      <Item value="parent" priority="1" />
+      <Item value="xtree" priority="4" />
+      <Item value="Fill" priority="0" />
+      <Item value="valor" priority="1" />
+      <Item value="Length" priority="1" />
+      <Item value="FrmUser`0" priority="0" />
+      <Item value="TMC" priority="0" />
+      <Item value="RetrieveVirtualItemEventArgs`0" priority="0" />
+      <Item value="PropertyTempItem`0" priority="0" />
+      <Item value="tTipoFormatoBindingSource" priority="1" />
+      <Item value="Formato" priority="0" />
+      <Item value="ItemForvaluepared" priority="3" />
+      <Item value="valueparedSpinEdit" priority="0" />
+      <Item value="gridLookUpEdit2" priority="0" />
+      <Item value="LastSisParcial" priority="0" />
+      <Item value="Material`0" priority="4" />
+      <Item value="openFileDialog1" priority="1" />
+      <Item value="DialogResult`0" priority="0" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="Image`0" priority="1" />
+      <Item value="MemoryStream`0" priority="2" />
+      <Item value="ACINOX" priority="0" />
+      <Item value="Functions" priority="0" />
+      <Item value="Bitmap`0" priority="0" />
+      <Item value="inicialliquidoedit" priority="0" />
+      <Item value="finalliquidoedit" priority="0" />
+      <Item value="Exclamation" priority="0" />
+      <Item value="tempinicialedit" priority="0" />
+      <Item value="tempfinaledit" priority="0" />
+      <Item value="Information" priority="0" />
+      <Item value="tect" priority="1" />
+      <Item value="gridLookUpEdit_Tecnologia" priority="0" />
+      <Item value="checkEdit_VE_1" priority="0" />
+      <Item value="decimal" priority="5" />
+      <Item value="textEdit_TS_2" priority="6" />
+      <Item value="MidpointRounding`0" priority="1" />
+      <Item value="MidpointRounding" priority="0" />
+      <Item value="mid" priority="0" />
+      <Item value="GridLookUpEdit`0" priority="0" />
+      <Item value="Equals`0" priority="2" />
+      <Item value="tecnologiaRow" priority="1" />
+      <Item value="ErrorBlinkStyle`0" priority="0" />
+      <Item value="wizardControl1" priority="0" />
+      <Item value="completionWizardPage1" priority="0" />
+      <Item value="Finish" priority="1" />
+      <Item value="P_ReporteMaterialesElementosRow`0" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="report" priority="1" />
+      <Item value="cont" priority="0" />
+      <Item value="IFeatureSupport`0" priority="1" />
+      <Item value="project" priority="9" />
+      <Item value="Tag" priority="0" />
+      <Item value="FrmProject" priority="0" />
+      <Item value="_openpatron" priority="0" />
+      <Item value="TableS" priority="4" />
+      <Item value="DateS" priority="1" />
+      <Item value="words" priority="4" />
+      <Item value="lex" priority="0" />
+      <Item value="PatronSettings`0" priority="0" />
+      <Item value="lastCalculated2" priority="1" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="frmreport" priority="0" />
+      <Item value="ParameterDirection`0" priority="0" />
+      <Item value="parameters" priority="0" />
+      <Item value="UCCompleteProperty`0" priority="0" />
+      <Item value="OpenFileDialog`0" priority="0" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="fileStream" priority="0" />
+      <Item value="File" priority="0" />
+      <Item value="stream" priority="0" />
+      <Item value="FileStream" priority="0" />
+      <Item value="mode" priority="0" />
+      <Item value="RibbonPage`0" priority="1" />
+      <Item value="DSACATTA`0" priority="1" />
+      <Item value="gridControl1" priority="0" />
+      <Item value="tCurvaBindingSource" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="Curva" priority="3" />
+      <Item value="user" priority="0" />
+      <Item value="SetTrace`0" priority="17" />
+      <Item value="Regimen" priority="0" />
+      <Item value="FrmPropiedades`0" priority="0" />
+      <Item value="dsDatos1" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="valuePair" priority="6" />
+      <Item value="pictureBox1" priority="0" />
+      <Item value="MdiChildren" priority="0" />
+      <Item value="ribbonControl" priority="1" />
+      <Item value="idprojectbalanceSpinEdit" priority="0" />
+      <Item value="Assert`0" priority="3" />
+      <Item value="algorith_test" priority="2" />
+      <Item value="CompareTest`0" priority="1" />
+      <Item value="target" priority="0" />
+      <Item value="SiSParcialTest`0" priority="0" />
+      <Item value="unknown" priority="0" />
+      <Item value="LP" priority="0" />
+      <Item value="TEXP" priority="0" />
+      <Item value="TEXP_E" priority="1" />
+      <Item value="algorithm" priority="8" />
+      <Item value="SIARAlgorithm" priority="0" />
+      <Item value="TDataSetTest`0" priority="0" />
+      <Item value="MaterialRow" priority="0" />
+      <Item value="T_MaterialRow" priority="0" />
+      <Item value="TableAdapterManager`0" priority="0" />
+      <Item value="Adapter" priority="4" />
+      <Item value="T_MaterialTableAdapter" priority="0" />
+      <Item value="ds" priority="8" />
+      <Item value="DSRD" priority="0" />
+      <Item value="T_FormulaTableAdapter`0" priority="0" />
+      <Item value="T_FormulaTableAdapter" priority="0" />
+      <Item value="formulaAdapter" priority="0" />
+      <Item value="T_ProjectTableAdapter`0" priority="0" />
+      <Item value="T_ProjectTableAdapter" priority="0" />
+      <Item value="Project`0" priority="0" />
+      <Item value="pr" priority="2" />
+      <Item value="Convert`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="OpenForms" priority="3" />
+      <Item value="StartupPath" priority="1" />
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MasterForm">
+      <Item value="CreateForm`0" priority="0" />
+      <Item value="DockManager" priority="2" />
+      <Item value="OnChildChanged" priority="0" />
+      <Item value="ReporteForm" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.DockPanel">
+      <Item value="Visible" priority="1" />
+      <Item value="Show`0" priority="1" />
+      <Item value="Parent" priority="0" />
+      <Item value="DockAsTab`0" priority="1" />
+      <Item value="Register`0" priority="0" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Text" priority="3" />
+      <Item value="Controls" priority="2" />
+      <Item value="ControlContainer" priority="0" />
+      <Item value="ClosedPanel" priority="1" />
+      <Item value="VisibilityChanged" priority="1" />
+      <Item value="AddPanel`0" priority="0" />
+      <Item value="Tag" priority="0" />
+      <Item value="Tabbed" priority="0" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.BarButtonItem">
+      <Item value="Down" priority="1" />
+      <Item value="Tag" priority="3" />
+      <Item value="Enabled" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.VisibilityChangedEventArgs">
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ModuleList">
+      <Item value="MasterForm" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.FrmMain">
+      <Item value="dockManager1" priority="2" />
+      <Item value="dockPanel1" priority="5" />
+      <Item value="barButtonItem6" priority="1" />
+      <Item value="dockPanel1_VisibilityChanged`0" priority="0" />
+      <Item value="dockPanel3" priority="1" />
+      <Item value="panelContainer1" priority="0" />
+      <Item value="xtraTabbedMdiManager1_SelectedPageChanged`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.DockManager">
+      <Item value="Form" priority="0" />
+      <Item value="Panels" priority="1" />
+      <Item value="AddPanel`0" priority="1" />
+      <Item value="ActivePanel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Parent" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="BringToFront`0" priority="0" />
+      <Item value="Invalidate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.ControlContainer">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_MaterialRow">
+      <Item value="namematerial" priority="3" />
+      <Item value="idmaterial" priority="1" />
+      <Item value="Img" priority="0" />
+      <Item value="Comentario" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.TreeList">
+      <Item value="FocusedNode" priority="1" />
+      <Item value="AppendNode`0" priority="1" />
+      <Item value="ClearNodes`0" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Dock" priority="0" />
+      <Item value="ColumnPanelRowHeight" priority="0" />
+      <Item value="Columns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_Propiedad_Fisica_ElementoRow">
+      <Item value="T_Elemento_OxidoRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_Elemento_OxidoRow">
+      <Item value="T_ElementoRow" priority="1" />
+      <Item value="nombre_elemento" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRDTableAdapters.T_Elemento_OxidoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD">
+      <Item value="T_Elemento_Oxido" priority="0" />
+      <Item value="T_Degradee" priority="0" />
+      <Item value="T_Material" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_ElementoRow">
+      <Item value="nameelemento" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_FormulaRow">
+      <Item value="idformula" priority="0" />
+      <Item value="idmaterial" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.TemperatureControl.FrmSettings">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.RD.DSRD">
+      <Item value="T_ProjectRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_ProjectRow">
+      <Item value="T_DegradeeRow" priority="0" />
+      <Item value="tempdise" priority="0" />
+      <Item value="tempamb" priority="0" />
+      <Item value="area" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.UCPropertyTempControl">
+      <Item value="TemperaturaAmbiente" priority="0" />
+      <Item value="TemperaturaInterna" priority="0" />
+      <Item value="Algorithm" priority="7" />
+      <Item value="SaveToFile`0" priority="0" />
+      <Item value="ChangeSide" priority="0" />
+      <Item value="TempList" priority="1" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="DrawToBitmap`0" priority="0" />
+      <Item value="Bounds" priority="0" />
+      <Item value="ReCalculateAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.SIARAlgorithm">
+      <Item value="Project" priority="6" />
+      <Item value="LastSisParcial" priority="3" />
+      <Item value="Spesor" priority="3" />
+      <Item value="SiSParcial`0" priority="1" />
+      <Item value="Materiales" priority="4" />
+      <Item value="ProjectObject" priority="1" />
+      <Item value="TDataSet" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRDTableAdapters.T_DegradeeTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="ActiveMdiChild" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="DialogResult" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.UCCompleteProperty">
+      <Item value="InnerControl" priority="15" />
+      <Item value="TempAmbiente" priority="0" />
+      <Item value="TempInterna" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.Tareas.FrmTempInicial">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.TextEdit">
+      <Item value="EditValue" priority="8" />
+      <Item value="Text" priority="0" />
+      <Item value="ErrorText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.CheckEdit">
+      <Item value="Checked" priority="5" />
+      <Item value="Tag" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Width" priority="1" />
+      <Item value="Right" priority="0" />
+      <Item value="Bottom" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.ComboBoxEdit">
+      <Item value="Width" priority="1" />
+      <Item value="Tag" priority="1" />
+      <Item value="EditValue" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.UCSelectableControl">
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.TemperatureItemList">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.MasterForm">
+      <Item value="Index" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.Nodes.TreeListNode">
+      <Item value="SetValue`0" priority="5" />
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Indexer" priority="0" />
+      <Item value="Count" priority="5" />
+      <Item value="Sum`1" priority="1" />
+      <Item value="Add`0" priority="37" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.ChartControl">
+      <Item value="Series" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.SeriesCollection">
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.Series">
+      <Item value="Label" priority="4" />
+      <Item value="LabelsVisibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.SeriesLabelBase">
+      <Item value="Text" priority="3" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.Utils.DefaultBoolean">
+      <Item value="True" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="CreateNew" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_MaterialDataTable">
+      <Item value="NewT_MaterialRow`0" priority="0" />
+      <Item value="AddT_MaterialRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRDTableAdapters.T_MaterialTableAdapter">
+      <Item value="Find`0" priority="0" />
+      <Item value="Last`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MCC.FrmMain">
+      <Item value="FrmMain_Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.MCC.DSMCC">
+      <Item value="T_TecnologiaRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.BindingSource">
+      <Item value="Current" priority="7" />
+      <Item value="EndEdit`0" priority="1" />
+      <Item value="AddNew`0" priority="2" />
+      <Item value="MoveFirst`0" priority="0" />
+      <Item value="Position" priority="2" />
+      <Item value="Find`0" priority="2" />
+      <Item value="DataSource" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="MoveLast`0" priority="1" />
+      <Item value="RemoveCurrent`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowView">
+      <Item value="Row" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MCC.DSMCCTableAdapters.P_ReporteTecnologiaTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MCC.DSMCC">
+      <Item value="P_ReporteTecnologia" priority="1" />
+      <Item value="T_Tecnologia" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MCC.DSMCC+T_TecnologiaRow">
+      <Item value="idtecnologia" priority="0" />
+      <Item value="codigo" priority="0" />
+      <Item value="Datetime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.General.Reportes.FrmReporte">
+      <Item value="ucReport1" priority="2" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="LoadFromDictionary`0" priority="0" />
+      <Item value="Load" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MaxMin.UCReport">
+      <Item value="LoadFromFile`0" priority="2" />
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.PopupControlContainer">
+      <Item value="HidePopup`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.BarButtonItemLink">
+      <Item value="Item" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTab.XtraTabControl">
+      <Item value="SelectedTabPageIndex" priority="1" />
+      <Item value="TabPages" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_Propiedad_TermodinamicaRow">
+      <Item value="Temperatura" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_Propiedad_FisicaRow">
+      <Item value="Densidad" priority="0" />
+      <Item value="Porocidad" priority="0" />
+      <Item value="Indice_Silicatacion" priority="0" />
+      <Item value="idGradoPH" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.GridLookUpEdit">
+      <Item value="EditValue" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_Propiedad_ProduccionRow">
+      <Item value="Costo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.ListJoiner">
+      <Item value="Join`0" priority="0" />
+      <Item value="JoinAll`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_FormatoRow">
+      <Item value="altura" priority="0" />
+      <Item value="Largo1" priority="0" />
+      <Item value="idTipo_Formato" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.DXErrorProvider.DXValidationProvider">
+      <Item value="Validate`0" priority="2" />
+      <Item value="GetValidationRule`0" priority="0" />
+      <Item value="SetValidationRule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRDTableAdapters.T_Tipo_FormatoTableAdapter">
+      <Item value="FillBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_MaterialRow">
+      <Item value="idmaterial" priority="0" />
+      <Item value="namematerial" priority="0" />
+      <Item value="Estres`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="Abort" priority="0" />
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.ComboBox">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.FrmAddMaterial">
+      <Item value="Espesor" priority="0" />
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD">
+      <Item value="P_ReporteComposicion" priority="4" />
+      <Item value="T_Material" priority="1" />
+      <Item value="T_Formula" priority="0" />
+      <Item value="T_Project" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+P_ReporteComposicionDataTable">
+      <Item value="NewP_ReporteComposicionRow`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="AddP_ReporteComposicionRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+P_ReporteComposicionRow">
+      <Item value="Tecnologia" priority="1" />
+      <Item value="Material" priority="0" />
+      <Item value="Espesor" priority="0" />
+      <Item value="Volumen" priority="0" />
+      <Item value="Costo" priority="0" />
+      <Item value="Estres" priority="0" />
+      <Item value="TMedia" priority="0" />
+      <Item value="Cond" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_ProjectRow">
+      <Item value="nameproject" priority="1" />
+      <Item value="dataproject" priority="2" />
+      <Item value="tempamb" priority="3" />
+      <Item value="tempdise" priority="2" />
+      <Item value="idproject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Balance_PropiedadTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="Fill`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE">
+      <Item value="T_Balance_Propiedad" priority="11" />
+      <Item value="T_Balance_CompDefaultAll" priority="0" />
+      <Item value="T_Balance_CompDefault" priority="1" />
+      <Item value="T_Project_Balance" priority="7" />
+      <Item value="T_Proyecto_Balance_BC" priority="1" />
+      <Item value="Q_ElementosProject" priority="15" />
+      <Item value="T_Indice_Consumo" priority="2" />
+      <Item value="T_Balance_Ecuacion" priority="0" />
+      <Item value="T_Patron_Balance_Desc" priority="6" />
+      <Item value="T_Elemento" priority="7" />
+      <Item value="TempElemento" priority="2" />
+      <Item value="T_Patron_Balance_BC" priority="4" />
+      <Item value="T_Tipo_Propiedad_Balance" priority="0" />
+      <Item value="T_Patron_Balance" priority="1" />
+      <Item value="P_ReporteMaterialesElementos" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Balance_CompDefaultAllTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Balance_CompDefaultTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Proyecto_Balance_BCTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Project_BalanceDataTable">
+      <Item value="idprojectbalanceColumn" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="DefaultValue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Proyecto_Balance_BCDataTable">
+      <Item value="idproyectoColumn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="44" />
+      <Item value="Sum`1" priority="13" />
+      <Item value="Select`2" priority="1" />
+      <Item value="Keys" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="Values" priority="2" />
+      <Item value="Indexer" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Indice_ConsumoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+Q_ElementosProjectDataTable">
+      <Item value="SearchCarga`0" priority="13" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="49" />
+      <Item value="Key" priority="36" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Balance_EcuacionDataTable">
+      <Item value="GetEcuacion`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Indice_ConsumoDataTable">
+      <Item value="Select`0" priority="0" />
+      <Item value="FindByName`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+Q_ElementosProjectRow">
+      <Item value="codelemento" priority="0" />
+      <Item value="name_Balance_P" priority="0" />
+      <Item value="nametipopropiedadbalance" priority="0" />
+      <Item value="valor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Indice_ConsumoRow">
+      <Item value="T_Balance_PropiedadRow" priority="0" />
+      <Item value="value_Indice_C" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Balance_PropiedadRow">
+      <Item value="name_Balance_P" priority="3" />
+      <Item value="idBalance_Propiedad" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Balance_EcuacionRow">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.BCE.DSBCE">
+      <Item value="T_Balance_PropiedadRow`0" priority="2" />
+      <Item value="T_Patron_Balance_DescRow`0" priority="1" />
+      <Item value="T_ElementoRow`0" priority="1" />
+      <Item value="T_Patron_BalanceRow`0" priority="0" />
+      <Item value="TempElementoRow`0" priority="1" />
+      <Item value="T_Project_BalanceRow`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="2" />
+      <Item value="Split`0" priority="3" />
+      <Item value="IndexOf`0" priority="4" />
+      <Item value="ToString`0" priority="3" />
+      <Item value="ToLower`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Tareas.FrmPatron">
+      <Item value="edit" priority="0" />
+      <Item value="dSBCE" priority="0" />
+      <Item value="idpatron" priority="1" />
+      <Item value="lastCalculated2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Patron_Balance_DescDataTable">
+      <Item value="NewRow`0" priority="0" />
+      <Item value="AddT_Patron_Balance_DescRow`0" priority="1" />
+      <Item value="LoadDataRow`0" priority="0" />
+      <Item value="NewT_Patron_Balance_DescRow`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Patron_Balance_DescRow">
+      <Item value="idpatron" priority="1" />
+      <Item value="idpropiedad" priority="1" />
+      <Item value="valor" priority="1" />
+      <Item value="idelemento" priority="1" />
+      <Item value="ItemArray" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Balance_PropiedadDataTable">
+      <Item value="Select`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_ElementoRow">
+      <Item value="idelemento" priority="2" />
+      <Item value="nameelemento" priority="1" />
+      <Item value="codelemento" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_ElementoTableAdapter">
+      <Item value="Fill`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Patron_Balance_DescTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="DeleteData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+TempElementoDataTable">
+      <Item value="Clear`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="0" />
+      <Item value="Round`0" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Patron_BalanceRow">
+      <Item value="idpatron" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Tareas.FrmNewPatron">
+      <Item value="edit" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.ItemClickEventArgs">
+      <Item value="Item" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.BarItem">
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_ElementoDataTable">
+      <Item value="Select`0" priority="2" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.EnumerableRowCollection`1">
+      <Item value="GetEnumerator`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+TempElementoRow">
+      <Item value="T_ElementoRow" priority="2" />
+      <Item value="propiedad" priority="3" />
+      <Item value="idelemento" priority="2" />
+      <Item value="valor" priority="0" />
+      <Item value="EndEdit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Patron_BalanceTableAdapter">
+      <Item value="Last`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Patron_Balance_BCRow">
+      <Item value="idpatron" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Patron_Balance_BCTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="FillBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Patron_Balance_BCDataTable">
+      <Item value="idpatronColumn" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Tipo_Propiedad_BalanceTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.GridControl">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.BCE.Codificadores.FrmSettings">
+      <Item value="GetSettingsAll`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Codificadores.PatronSettings">
+      <Item value="Masa" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.XtraEditors.XtraMessageBox">
+      <Item value="Show`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCETableAdapters.T_Project_BalanceTableAdapter">
+      <Item value="Update`0" priority="1" />
+      <Item value="FillBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Tareas.FrmManageProject">
+      <Item value="edit" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Project_BalanceRow">
+      <Item value="idprojectbalance" priority="1" />
+      <Item value="name_P" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Tareas.FrmOpenProject">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="idproject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Tareas.FrmProject">
+      <Item value="idproject" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="ParentForm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraLayout.SimpleLabelItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="Sum`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.Codificadores.FrmSettings">
+      <Item value="FrmSettings_Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+T_Balance_CompDefaultRow">
+      <Item value="T_Balance_PropiedadRow" priority="1" />
+      <Item value="valor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTab.XtraTabPageCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.Columns.TreeListColumnCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.Columns.TreeListColumn">
+      <Item value="Caption" priority="1" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Properties.Settings">
+      <Item value="TMCConnectionString" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.PropertyItemList">
+      <Item value="TemperaturaAmbiente" priority="1" />
+      <Item value="TemperaturaInterna" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraLayout.LayoutControlItem">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.TrackBarControl">
+      <Item value="EditValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="OpenFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ACINOX.Functions.Image">
+      <Item value="CreateImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ACATTA.Tareas.FrmTanque">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Exclamation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse`0" priority="22" />
+      <Item value="Round`0" priority="19" />
+      <Item value="Zero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MCC.DSMCC+T_TecnologiaDataTable">
+      <Item value="AddT_TecnologiaRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraWizard.WizardControl">
+      <Item value="SelectedPage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.CancelEventArgs">
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+P_ReporteMaterialesElementosRow">
+      <Item value="Carga" priority="1" />
+      <Item value="CargaPorciento" priority="0" />
+      <Item value="Perdida" priority="1" />
+      <Item value="PerdidaPorciento" priority="1" />
+      <Item value="Elemento" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.BCE.DSBCE+P_ReporteMaterialesElementosDataTable">
+      <Item value="AddP_ReporteMaterialesElementosRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Grid.GridView">
+      <Item value="GetDataRow`0" priority="0" />
+      <Item value="FocusedRowHandle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.ACATTA.DSACATTA">
+      <Item value="T_CurvaRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ACATTA.DSACATTA+T_CurvaRow">
+      <Item value="datacurva" priority="1" />
+      <Item value="EndEdit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ACATTA.Prediccion.FrmCurveEdit">
+      <Item value="data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.FrmMain">
+      <Item value="traceComponent1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.Components.TraceComponent">
+      <Item value="DataSets" priority="0" />
+      <Item value="LoadList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosingEventArgs">
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ACATTA.DSACATTA+T_RegimenCalentamientoRow">
+      <Item value="imgregcalent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.General.FrmUserManager">
+      <Item value="BringToFront`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Ribbon.RibbonControl">
+      <Item value="Pages" priority="0" />
+      <Item value="SelectedPage" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Ribbon.RibbonPage">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="2" />
+      <Item value="IsFalse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.SIAR.DSRD">
+      <Item value="T_MaterialRow`0" priority="4" />
+      <Item value="T_MaterialDataTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRDTableAdapters.T_MaterialTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_MaterialDataTable">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRDTableAdapters.T_FormulaTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRDTableAdapters.T_ProjectTableAdapter">
+      <Item value="Fill`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="FillBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.SIAR.DSRD+T_ProjectDataTable">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.Project">
+      <Item value="Area" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble`0" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmExploracion.cs" caret="4794" fromTop="25" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmSimulate.cs" caret="21409" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmOpenProject.cs" caret="592" fromTop="20" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Codificadores/f:FrmGrado_PH.cs" caret="1311" fromTop="13" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Tareas/f:FrmEstudio.cs" caret="3683" fromTop="22" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Tareas/f:FrmConfigProject.cs" caret="5270" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Tareas/f:FrmGestor_Datos_MRA.cs" caret="12713" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmCreate.cs" caret="1914" fromTop="17" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmCreate.designer.cs" caret="24565" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmNewPatron.cs" caret="2047" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmBalance.cs" caret="0" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/f:Program.cs" caret="660" fromTop="11" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/f:FrmUser.cs" caret="2268" fromTop="13" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/f:FrmMain.cs" caret="17175" fromTop="153" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/f:FrmMain.cs" caret="7633" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:General/f:ModuleLoader.cs" caret="2399" fromTop="10" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/f:FrmMain.cs" caret="1658" fromTop="2" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmManageProject.cs" caret="1241" fromTop="21" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/f:SIARModule.cs" caret="0" fromTop="0" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:Classes.cs" caret="20863" fromTop="29" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Codificadores/f:FrmElemento_Oxido.cs" caret="0" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:SIAR/d:Tareas/f:FrmOpenProject.cs" caret="1440" fromTop="28" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/f:BCEAlgorithms.cs" caret="3044" fromTop="0" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:SIARAlgorithms.cs" caret="16223" fromTop="10" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="6188" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmManageProject.cs" caret="1432" fromTop="13" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:BCE/d:Tareas/f:FrmManageProject.cs" caret="1072" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:SIARAlgorithms.cs" caret="6168" fromTop="5" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:SIARAlgorithms.cs" caret="6407" fromTop="20" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3362" fromTop="23" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3655" fromTop="26" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3677" fromTop="11" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3383" fromTop="2" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3516" fromTop="6" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3655" fromTop="18" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3655" fromTop="34" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3870" fromTop="15" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3870" fromTop="10" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="787" fromTop="12" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3652" fromTop="24" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="246" fromTop="13" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="244" fromTop="7" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3655" fromTop="32" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3655" fromTop="12" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="787" fromTop="15" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="787" fromTop="15" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3942" fromTop="9" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="5967" fromTop="23" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="6074" fromTop="17" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="2878" fromTop="16" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="3270" fromTop="23" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="6176" fromTop="33" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="6176" fromTop="0" />
+      <File id="8CDADBAC-9D2E-4AB4-8000-78A8CDB2066B/f:SIARAlgorithmTest.cs" caret="6163" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

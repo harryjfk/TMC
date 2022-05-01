@@ -1,0 +1,414 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="13" />
+      <Item value="dialog" priority="1" />
+      <Item value="MasterForm`0" priority="18" />
+      <Item value="Application`0" priority="1" />
+      <Item value="form" priority="0" />
+      <Item value="dockPanel1" priority="0" />
+      <Item value="sender" priority="3" />
+      <Item value="barButtonItem6" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="e" priority="2" />
+      <Item value="Visible" priority="0" />
+      <Item value="Form1`0" priority="0" />
+      <Item value="ModuleList" priority="6" />
+      <Item value="frmMain" priority="16" />
+      <Item value="true" priority="3" />
+      <Item value="Left" priority="1" />
+      <Item value="virtual" priority="0" />
+      <Item value="null" priority="15" />
+      <Item value="r" priority="8" />
+      <Item value="partial" priority="1" />
+      <Item value="void" priority="6" />
+      <Item value="DockPanel`0" priority="4" />
+      <Item value="CopyDockPanel`0" priority="1" />
+      <Item value="dest" priority="2" />
+      <Item value="src" priority="3" />
+      <Item value="while" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="BarButtonItem`0" priority="2" />
+      <Item value="public" priority="12" />
+      <Item value="FrmMain`0" priority="0" />
+      <Item value="var" priority="13" />
+      <Item value="CreateForm`0" priority="0" />
+      <Item value="barButtonItem10" priority="0" />
+      <Item value="treeList1" priority="1" />
+      <Item value="barButtonItem1" priority="0" />
+      <Item value="DSRD`0" priority="30" />
+      <Item value="class" priority="0" />
+      <Item value="t_ElementoTableAdapter1" priority="0" />
+      <Item value="t_Elemento_OxidoTableAdapter1" priority="0" />
+      <Item value="dSDatos" priority="1" />
+      <Item value="Close`0" priority="1" />
+      <Item value="RD" priority="1" />
+      <Item value="Tareas" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="s" priority="2" />
+      <Item value="Project" priority="2" />
+      <Item value="ucPropertyTempControl1" priority="0" />
+      <Item value="value" priority="2" />
+      <Item value="Algorithm" priority="9" />
+      <Item value="t_DegradeeTableAdapter1" priority="0" />
+      <Item value="temp" priority="0" />
+      <Item value="Components" priority="0" />
+      <Item value="TemperatureControl" priority="0" />
+      <Item value="Properties" priority="0" />
+      <Item value="TAMP" priority="0" />
+      <Item value="buttonEdit" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="ChildChanged`0" priority="0" />
+      <Item value="if" priority="9" />
+      <Item value="OnChildChanged" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="page" priority="0" />
+      <Item value="barButtonItem9" priority="0" />
+      <Item value="Form`0" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="FrmEstudio`0" priority="0" />
+      <Item value="frmSettings" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="NonSerialized" priority="1" />
+      <Item value="FrmTempInicial`0" priority="0" />
+      <Item value="FrmIni" priority="1" />
+      <Item value="ucCompleteProperty1" priority="6" />
+      <Item value="OK" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="SIARAlgorithm`0" priority="0" />
+      <Item value="_algorithm" priority="1" />
+      <Item value="double" priority="4" />
+      <Item value="textEdit1" priority="1" />
+      <Item value="checkEdit1" priority="0" />
+      <Item value="MoverRectangle" priority="0" />
+      <Item value="_combo" priority="1" />
+      <Item value="ControlSize" priority="1" />
+      <Item value="_labelt" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="li" priority="1" />
+      <Item value="ri" priority="1" />
+      <Item value="Rectangle" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="_selectControl" priority="2" />
+      <Item value="Graphics`0" priority="0" />
+      <Item value="DrawIndicator`0" priority="0" />
+      <Item value="GetInformationRect`0" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Pen" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="i" priority="2" />
+      <Item value="c" priority="0" />
+      <Item value="q" priority="1" />
+      <Item value="TempList" priority="1" />
+      <Item value="TreeListAutoFilterNode`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="m" priority="0" />
+      <Item value="UpdateTree`0" priority="0" />
+      <Item value="DesignTree" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="name" priority="0" />
+      <Item value="AddTree`0" priority="3" />
+      <Item value="List" priority="0" />
+      <Item value="t" priority="3" />
+      <Item value="foreach" priority="1" />
+      <Item value="panel" priority="2" />
+      <Item value="w" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="Volumen" priority="0" />
+      <Item value="Espesor" priority="1" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="Recalculate`0" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="UpdateMaterial`0" priority="0" />
+      <Item value="chartControl1" priority="1" />
+      <Item value="series" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="filename" priority="0" />
+      <Item value="FileMode`0" priority="0" />
+      <Item value="SaveToStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="OpenForms" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.MasterForm">
+      <Item value="CreateForm`0" priority="0" />
+      <Item value="DockManager" priority="2" />
+      <Item value="OnChildChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.DockPanel">
+      <Item value="Visible" priority="1" />
+      <Item value="Show`0" priority="1" />
+      <Item value="Parent" priority="0" />
+      <Item value="DockAsTab`0" priority="1" />
+      <Item value="Register`0" priority="0" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Text" priority="3" />
+      <Item value="Controls" priority="2" />
+      <Item value="ControlContainer" priority="0" />
+      <Item value="ClosedPanel" priority="1" />
+      <Item value="VisibilityChanged" priority="1" />
+      <Item value="AddPanel`0" priority="0" />
+      <Item value="Tag" priority="0" />
+      <Item value="Tabbed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.BarButtonItem">
+      <Item value="Down" priority="1" />
+      <Item value="Tag" priority="1" />
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.VisibilityChangedEventArgs">
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.ModuleList">
+      <Item value="MasterForm" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.FrmMain">
+      <Item value="dockManager1" priority="2" />
+      <Item value="dockPanel1" priority="5" />
+      <Item value="barButtonItem6" priority="1" />
+      <Item value="dockPanel1_VisibilityChanged`0" priority="0" />
+      <Item value="dockPanel3" priority="1" />
+      <Item value="panelContainer1" priority="0" />
+      <Item value="xtraTabbedMdiManager1_SelectedPageChanged`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.DockManager">
+      <Item value="Form" priority="0" />
+      <Item value="Panels" priority="1" />
+      <Item value="AddPanel`0" priority="1" />
+      <Item value="ActivePanel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Parent" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="BringToFront`0" priority="0" />
+      <Item value="Invalidate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Docking.ControlContainer">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_MaterialRow">
+      <Item value="namematerial" priority="2" />
+      <Item value="idmaterial" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.TreeList">
+      <Item value="FocusedNode" priority="1" />
+      <Item value="AppendNode`0" priority="0" />
+      <Item value="ClearNodes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_Propiedad_Fisica_ElementoRow">
+      <Item value="T_Elemento_OxidoRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_Elemento_OxidoRow">
+      <Item value="T_ElementoRow" priority="1" />
+      <Item value="nombre_elemento" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRDTableAdapters.T_Elemento_OxidoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD">
+      <Item value="T_Elemento_Oxido" priority="0" />
+      <Item value="T_Degradee" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_ElementoRow">
+      <Item value="nameelemento" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_FormulaRow">
+      <Item value="idformula" priority="0" />
+      <Item value="idmaterial" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.TemperatureControl.FrmSettings">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.RD.DSRD">
+      <Item value="T_ProjectRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRD+T_ProjectRow">
+      <Item value="T_DegradeeRow" priority="0" />
+      <Item value="tempdise" priority="0" />
+      <Item value="tempamb" priority="0" />
+      <Item value="area" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.UCPropertyTempControl">
+      <Item value="TemperaturaAmbiente" priority="0" />
+      <Item value="TemperaturaInterna" priority="0" />
+      <Item value="Algorithm" priority="2" />
+      <Item value="SaveToFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.SIARAlgorithm">
+      <Item value="Project" priority="3" />
+      <Item value="LastSisParcial" priority="2" />
+      <Item value="Spesor" priority="0" />
+      <Item value="SiSParcial`0" priority="0" />
+      <Item value="Materiales" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.DSRDTableAdapters.T_DegradeeTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="ActiveMdiChild" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.UCCompleteProperty">
+      <Item value="InnerControl" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.RD.Tareas.FrmTempInicial">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.TextEdit">
+      <Item value="EditValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.CheckEdit">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Width" priority="1" />
+      <Item value="Right" priority="0" />
+      <Item value="Bottom" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.ComboBoxEdit">
+      <Item value="Width" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.UCSelectableControl">
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TMC.Components.TemperatureControl.TemperatureItemList">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TMC.MasterForm">
+      <Item value="Index" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.Nodes.TreeListNode">
+      <Item value="SetValue`0" priority="2" />
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Indexer" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Sum`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.ChartControl">
+      <Item value="Series" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.SeriesCollection">
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.Series">
+      <Item value="Label" priority="1" />
+      <Item value="LabelsVisibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraCharts.SeriesLabelBase">
+      <Item value="Text" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.Utils.DefaultBoolean">
+      <Item value="True" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="CreateNew" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:FrmAddMaterial.cs" caret="2366" fromTop="59" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:FrmAddMaterial.designer.cs" caret="25526" fromTop="418" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmConfigProject.cs" caret="262" fromTop="10" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.designer.cs" caret="151618" fromTop="2010" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmTempInicial.cs" caret="170" fromTop="6" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCCompleteProperty.cs" caret="1089" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmSimulate.cs" caret="3840" fromTop="24" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCTemperatureControl.cs" caret="5469" fromTop="18" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/f:RDModule.cs" caret="1602" fromTop="29" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:General/f:ModuleLoader.cs" caret="390" fromTop="17" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/f:FrmMain.cs" caret="1006" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Prediccion/f:FrmPredecir.cs" caret="29379" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Prediccion/f:FrmPredictPropiedades.cs" caret="12035" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Prediccion/f:FrmViewPredecir.cs" caret="3366" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Tareas/f:FrmCalculoTT.cs" caret="12293" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Tareas/f:FrmDeterminarTT.cs" caret="2300" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Tareas/f:FrmEvalHorno.cs" caret="3577" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:ACATTA/d:Tareas/f:FrmTanque.cs" caret="3346" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/f:DSMCC.cs" caret="7205" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/f:FrmMain.cs" caret="572" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/f:SelectableObject.cs" caret="422" fromTop="14" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:SIARAlgorithms.cs" caret="5635" fromTop="1" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/f:Form1.cs" caret="2244" fromTop="17" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:MCC/d:Tareas/f:FrmExploracion.cs" caret="5424" fromTop="27" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/f:FrmMain.cs" caret="3091" fromTop="20" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:GraphControl/f:UCGraphControl.cs" caret="2775" fromTop="21" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="3143" fromTop="8" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:Classes.cs" caret="7507" fromTop="11" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmOpenProject.cs" caret="1258" fromTop="17" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="8689" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="4574" fromTop="24" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="4573" fromTop="17" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="8707" fromTop="25" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="3529" fromTop="15" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="8377" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="8197" fromTop="10" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="8423" fromTop="15" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="6622" fromTop="9" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="7272" fromTop="29" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="6778" fromTop="14" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="6892" fromTop="24" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="6892" fromTop="21" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="6892" fromTop="20" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="7709" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="18248" fromTop="9" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="7561" fromTop="11" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="7815" fromTop="21" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="4254" fromTop="9" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="8868" fromTop="21" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="2794" fromTop="8" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="4645" fromTop="26" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="1804" fromTop="5" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="1675" fromTop="22" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="2981" fromTop="15" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="2670" fromTop="18" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="5821" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="9614" fromTop="9" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="3238" fromTop="28" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:RD/d:Tareas/f:FrmEstudio.cs" caret="9590" fromTop="16" />
+      <File id="114CD69D-938F-47D2-B957-8E4050D43E51/d:Components/d:TemperatureControl/f:UCPropertyTempControl.cs" caret="3068" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

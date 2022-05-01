@@ -1,0 +1,733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{114CD69D-938F-47D2-B957-8E4050D43E51}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TMC</RootNamespace>
+    <AssemblyName>TMC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>http://localhost/TMC/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\ACATTA\ACATTA\bin\Debug\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.Wizard, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.Extensions, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.UI, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Design.Win, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Presets, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Win, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="NCalc">
+      <HintPath>..\..\ACATTA\ACATTA\bin\Debug\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACATTA\ACATTAModule.cs" />
+    <Compile Include="Components\SelectableObject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\Classes.cs" />
+    <Compile Include="Components\TemperatureControl\FrmAddMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\FrmAddMaterial.designer.cs">
+      <DependentUpon>FrmAddMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\FrmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\FrmSettings.designer.cs">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\SIARAlgorithms.cs" />
+    <Compile Include="Components\TemperatureControl\UCCompleteProperty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\UCCompleteProperty.designer.cs">
+      <DependentUpon>UCCompleteProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\UCPropertyTempControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\UCPropertyTempControl.designer.cs">
+      <DependentUpon>UCPropertyTempControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\UCTemperatureControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\TemperatureControl\UCTemperatureControl.designer.cs">
+      <DependentUpon>UCTemperatureControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmAcero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmAcero.designer.cs">
+      <DependentUpon>FrmAcero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmFormula.designer.cs">
+      <DependentUpon>FrmFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmHornos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmHornos.designer.cs">
+      <DependentUpon>FrmHornos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\Codificadores\FrmMaterial.designer.cs">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmTipoPieza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmTipoPieza.designer.cs">
+      <DependentUpon>FrmTipoPieza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmTratamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Codificadores\FrmTratamiento.designer.cs">
+      <DependentUpon>FrmTratamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\DSACATTA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSACATTA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\DSACATTA.cs">
+      <DependentUpon>DSACATTA.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACATTA\CalculateHelper.cs" />
+    <Compile Include="ACATTA\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmChooseFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmChooseFormula.designer.cs">
+      <DependentUpon>FrmChooseFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmCurveEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmCurveEdit.designer.cs">
+      <DependentUpon>FrmCurveEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmCurveManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmCurveManager.designer.cs">
+      <DependentUpon>FrmCurveManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmPredecir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmPredecir.designer.cs">
+      <DependentUpon>FrmPredecir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmPredictPropiedades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmPredictPropiedades.designer.cs">
+      <DependentUpon>FrmPredictPropiedades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmViewPredecir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\FrmViewPredecir.designer.cs">
+      <DependentUpon>FrmViewPredecir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Prediccion\PreditionAlgorithm.cs" />
+    <Compile Include="ACATTA\Tareas\FrmCalculateWeight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmCalculateWeight.designer.cs">
+      <DependentUpon>FrmCalculateWeight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmCalculoTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmCalculoTT.designer.cs">
+      <DependentUpon>FrmCalculoTT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmDeterminarTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmDeterminarTT.designer.cs">
+      <DependentUpon>FrmDeterminarTT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmEvalHorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmEvalHorno.designer.cs">
+      <DependentUpon>FrmEvalHorno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmTanque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACATTA\Tareas\FrmTanque.designer.cs">
+      <DependentUpon>FrmTanque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\FormulateControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\FormulateControl.designer.cs">
+      <DependentUpon>FormulateControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\Axe.cs" />
+    <Compile Include="Components\GraphControl\DSGraphControl.cs">
+      <DependentUpon>DSGraphControl.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\DSGraphControl1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSGraphControl.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmAxeManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmAxeManager.designer.cs">
+      <DependentUpon>FrmAxeManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmEditPoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmEditPoint.designer.cs">
+      <DependentUpon>FrmEditPoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmManageSerie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmManageSerie.designer.cs">
+      <DependentUpon>FrmManageSerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmPointFromAxe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\FrmPointFromAxe.designer.cs">
+      <DependentUpon>FrmPointFromAxe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\Point.cs" />
+    <Compile Include="Components\GraphControl\PointEditItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\PointEditItem.designer.cs">
+      <DependentUpon>PointEditItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\Serie.cs" />
+    <Compile Include="Components\GraphControl\UCGraphControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\UCGraphControl.designer.cs">
+      <DependentUpon>UCGraphControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\UCGraphDesigner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\UCGraphDesigner.designer.cs">
+      <DependentUpon>UCGraphDesigner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GraphControl\UCImageController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GraphControl\UCImageController.designer.cs">
+      <DependentUpon>UCImageController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmCirculacion_AM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmCirculacion_AM.designer.cs">
+      <DependentUpon>FrmCirculacion_AM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmMaquina.designer.cs">
+      <DependentUpon>FrmMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\FrmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\FrmReporte.designer.cs">
+      <DependentUpon>FrmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\DSGeneral.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSGeneral.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmParametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Codificadores\FrmParametros.designer.cs">
+      <DependentUpon>FrmParametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\DSMCC.cs">
+      <DependentUpon>DSMCC.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MCC\DSMCC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSMCC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\ExpAlgorithm.cs" />
+    <Compile Include="MCC\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\FrmMain.designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\MCCModule.cs" />
+    <Compile Include="General\ModuleLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmCreate.designer.cs">
+      <DependentUpon>FrmCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmExploracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmExploracion.designer.cs">
+      <DependentUpon>FrmExploracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmSimulate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCC\Tareas\FrmSimulate.designer.cs">
+      <DependentUpon>FrmSimulate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RD\Codificadores\FrmElemento_Oxido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmElemento_Oxido.designer.cs">
+      <DependentUpon>FrmElemento_Oxido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmGrado_PH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmGrado_PH.designer.cs">
+      <DependentUpon>FrmGrado_PH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmTipo_Formato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmTipo_Formato.designer.cs">
+      <DependentUpon>FrmTipo_Formato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmVariantematerialConformado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Codificadores\FrmVariantematerialConformado.designer.cs">
+      <DependentUpon>FrmVariantematerialConformado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\DSRD.cs">
+      <DependentUpon>DSRD.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RD\DSRD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSRD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RD\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\FrmMain.designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\RDModule.cs" />
+    <Compile Include="RD\Tareas\FrmBCE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmBCE.designer.cs">
+      <DependentUpon>FrmBCE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmConfigProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmConfigProject.designer.cs">
+      <DependentUpon>FrmConfigProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmEditFormato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmEditFormato.designer.cs">
+      <DependentUpon>FrmEditFormato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmEstudio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmEstudio.designer.cs">
+      <DependentUpon>FrmEstudio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmGestor_Datos_MRA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmGestor_Datos_MRA.designer.cs">
+      <DependentUpon>FrmGestor_Datos_MRA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmOpenProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmOpenProject.Designer.cs">
+      <DependentUpon>FrmOpenProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmTempInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RD\Tareas\FrmTempInicial.Designer.cs">
+      <DependentUpon>FrmTempInicial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Components\TemperatureControl\FrmAddMaterial.resx">
+      <DependentUpon>FrmAddMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\TemperatureControl\FrmSettings.resx">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\TemperatureControl\UCCompleteProperty.resx">
+      <DependentUpon>UCCompleteProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\TemperatureControl\UCPropertyTempControl.resx">
+      <DependentUpon>UCPropertyTempControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\TemperatureControl\UCTemperatureControl.resx">
+      <DependentUpon>UCTemperatureControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Codificadores\FrmAcero.resx">
+      <DependentUpon>FrmAcero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Codificadores\FrmFormula.resx">
+      <DependentUpon>FrmFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Codificadores\FrmHornos.resx">
+      <DependentUpon>FrmHornos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Codificadores\FrmMaterial.resx">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Codificadores\FrmTipoPieza.resx">
+      <DependentUpon>FrmTipoPieza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Codificadores\FrmTratamiento.resx">
+      <DependentUpon>FrmTratamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmChooseFormula.resx">
+      <DependentUpon>FrmChooseFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmCurveEdit.resx">
+      <DependentUpon>FrmCurveEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmCurveManager.resx">
+      <DependentUpon>FrmCurveManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmPredecir.resx">
+      <DependentUpon>FrmPredecir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmPredictPropiedades.resx">
+      <DependentUpon>FrmPredictPropiedades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Prediccion\FrmViewPredecir.resx">
+      <DependentUpon>FrmViewPredecir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Tareas\FrmCalculoTT.resx">
+      <DependentUpon>FrmCalculoTT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Tareas\FrmDeterminarTT.resx">
+      <DependentUpon>FrmDeterminarTT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Tareas\FrmEvalHorno.resx">
+      <DependentUpon>FrmEvalHorno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACATTA\Tareas\FrmTanque.resx">
+      <DependentUpon>FrmTanque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\FormulateControl.resx">
+      <DependentUpon>FormulateControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\FrmAxeManager.resx">
+      <DependentUpon>FrmAxeManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\FrmEditPoint.resx">
+      <DependentUpon>FrmEditPoint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\FrmManageSerie.resx">
+      <DependentUpon>FrmManageSerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\FrmPointFromAxe.resx">
+      <DependentUpon>FrmPointFromAxe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\PointEditItem.resx">
+      <DependentUpon>PointEditItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\UCGraphControl.resx">
+      <DependentUpon>UCGraphControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\UCGraphDesigner.resx">
+      <DependentUpon>UCGraphDesigner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GraphControl\UCImageController.resx">
+      <DependentUpon>UCImageController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Codificadores\FrmElemento_Oxido.resx">
+      <DependentUpon>FrmElemento_Oxido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Codificadores\FrmGrado_PH.resx">
+      <DependentUpon>FrmGrado_PH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Codificadores\FrmTipo_Formato.resx">
+      <DependentUpon>FrmTipo_Formato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Codificadores\FrmVariantematerialConformado.resx">
+      <DependentUpon>FrmVariantematerialConformado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmBCE.resx">
+      <DependentUpon>FrmBCE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmConfigProject.resx">
+      <DependentUpon>FrmConfigProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmEditFormato.resx">
+      <DependentUpon>FrmEditFormato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmEstudio.resx">
+      <DependentUpon>FrmEstudio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmGestor_Datos_MRA.resx">
+      <DependentUpon>FrmGestor_Datos_MRA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmOpenProject.resx">
+      <DependentUpon>FrmOpenProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RD\Tareas\FrmTempInicial.resx">
+      <DependentUpon>FrmTempInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ACATTA\DSACATTA.xsc">
+      <DependentUpon>DSACATTA.xsd</DependentUpon>
+    </None>
+    <None Include="ACATTA\DSACATTA.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSACATTA.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACATTA\DSACATTA.xss">
+      <DependentUpon>DSACATTA.xsd</DependentUpon>
+    </None>
+    <None Include="Components\GraphControl\DSGraphControl.xsc">
+      <DependentUpon>DSGraphControl.xsd</DependentUpon>
+    </None>
+    <None Include="Components\GraphControl\DSGraphControl.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSGraphControl1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Components\GraphControl\DSGraphControl.xss">
+      <DependentUpon>DSGraphControl.xsd</DependentUpon>
+    </None>
+    <None Include="General\DSGeneral.xsc">
+      <DependentUpon>DSGeneral.xsd</DependentUpon>
+    </None>
+    <None Include="General\DSGeneral.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSGeneral.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="General\DSGeneral.xss">
+      <DependentUpon>DSGeneral.xsd</DependentUpon>
+    </None>
+    <None Include="MCC\DSMCC.xsc">
+      <DependentUpon>DSMCC.xsd</DependentUpon>
+    </None>
+    <None Include="MCC\DSMCC.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSMCC.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="MCC\DSMCC.xss">
+      <DependentUpon>DSMCC.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="General\FrmReporte.resx">
+      <DependentUpon>FrmReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Codificadores\FrmCirculacion_AM.resx">
+      <DependentUpon>FrmCirculacion_AM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Codificadores\FrmMaquina.resx">
+      <DependentUpon>FrmMaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Codificadores\FrmParametros.resx">
+      <DependentUpon>FrmParametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Tareas\FrmCreate.resx">
+      <DependentUpon>FrmCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Tareas\FrmExploracion.resx">
+      <DependentUpon>FrmExploracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCC\Tareas\FrmSimulate.resx">
+      <DependentUpon>FrmSimulate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RD\DSRD.xsc">
+      <DependentUpon>DSRD.xsd</DependentUpon>
+    </None>
+    <None Include="RD\DSRD.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSRD.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="RD\DSRD.xss">
+      <DependentUpon>DSRD.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\ACINOX Components\ACINOX Components\ACINOX.csproj">
+      <Project>{B50DAE58-F5B9-48FD-91CA-D7BC07E40D67}</Project>
+      <Name>ACINOX</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

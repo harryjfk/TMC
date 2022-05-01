@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7e18ef9d-d3cd-4898-91ad-47c07ba4acd7" name="Harry@HARRY-PC 2015-10-02 12:19:10" runUser="Harry-PC\Harry" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="607f8b6c-2431-4eb3-8939-f252dd3f80db">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Harry_HARRY-PC 2015-10-02 12_19_10">
+      <DeploymentItem filename="C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe" />
+      <DeploymentItem filename="C:\Users\Harry\Documents\Visual Studio 2010\Projects\ACINOX Components\ACINOX Components\bin\Debug\ACINOX.dll" />
+      <DeploymentItem filename="C:\Users\Harry\Documents\Visual Studio 2010\Projects\ACATTA\ACATTA\bin\Debug\NCalc.dll" />
+      <DeploymentItem filename="C:\Users\Harry\Documents\Visual Studio 2010\Projects\ACATTA\ACATTA\bin\Debug\Antlr3.Runtime.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-02T12:19:10.6349707-04:00" queuing="2015-10-02T12:19:14.5471944-04:00" start="2015-10-02T12:19:14.8302106-04:00" finish="2015-10-02T12:19:18.2534064-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="10" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="8" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HARRY-PC" outcome="Error" timestamp="2015-10-02T12:19:18.2514063-04:00">
+        <Text>El proceso del host de pruebas terminó inesperadamente.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Escoria_Segun_Carga_MetalTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="f4df9678-d5a0-cf24-1594-17ea75adff6f">
+      <Execution id="b4f9d4be-e6b1-434a-a2b7-05f471d5b65d" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Escoria_Segun_Carga_MetalTest" />
+    </UnitTest>
+    <UnitTest name="ValorPonderadoTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="4df4ef24-9be2-3997-372c-e921aa3d4e84">
+      <Execution id="b34a5db6-9924-407b-873e-142c54acc615" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValorPonderadoTest" />
+    </UnitTest>
+    <UnitTest name="OxidosDeCargasTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="11caa729-24c7-79d9-7020-4f231434cad9">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="8d5765f9-3e21-4293-bccd-764eeae8c309" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OxidosDeCargasTest" />
+    </UnitTest>
+    <UnitTest name="GenerateListTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="345b1246-9144-618d-cd12-bf9ec46c6f05">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="730517fa-1fb3-4e9d-b45a-90714119b610" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateListTest" />
+    </UnitTest>
+    <UnitTest name="AlgorithmConstructorTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="f3e19889-8189-0c97-7315-24fd8463fef8">
+      <Execution id="fbc5335a-66c9-4c7a-b02b-20ec386fe87b" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AlgorithmConstructorTest" />
+    </UnitTest>
+    <UnitTest name="Carga_Segun_Escoria_MetalTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="740f9f46-4e0a-e5e2-5e49-457e004a3d15">
+      <Execution id="0e0b6588-513e-411c-987b-04dd296d9520" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Carga_Segun_Escoria_MetalTest" />
+    </UnitTest>
+    <UnitTest name="AddToDictionaryTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="cd3ae5a1-387c-e07d-c26f-d538d3140eaa">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="0ed24b35-3e37-4160-ad70-f16b28ab40c5" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddToDictionaryTest" />
+    </UnitTest>
+    <UnitTest name="GenerateList2Test" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="30375c62-d150-2984-8713-9411dd4733da">
+      <Execution id="42d0d7c3-39e0-4ec9-b659-baa832360395" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateList2Test" />
+    </UnitTest>
+    <UnitTest name="GetFromDictionaryTest" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="9390e305-674b-9e2c-e700-7ed08be1fda5">
+      <DeploymentItems>
+        <DeploymentItem filename="TMC.exe" />
+      </DeploymentItems>
+      <Execution id="19885741-564e-4ed2-9b3e-db78e884789a" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AlgorithmTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetFromDictionaryTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\harry\documents\visual studio 2010\projects\tmc\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="e8a655f3-87d1-405f-b051-cb336225f016" />
+      <TestMethod codeBase="C:/Users/Harry/Documents/Visual Studio 2010/Projects/TMC/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="e8a655f3-87d1-405f-b051-cb336225f016" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3e19889-8189-0c97-7315-24fd8463fef8" executionId="fbc5335a-66c9-4c7a-b02b-20ec386fe87b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd3ae5a1-387c-e07d-c26f-d538d3140eaa" executionId="0ed24b35-3e37-4160-ad70-f16b28ab40c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="740f9f46-4e0a-e5e2-5e49-457e004a3d15" executionId="0e0b6588-513e-411c-987b-04dd296d9520" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4df9678-d5a0-cf24-1594-17ea75adff6f" executionId="b4f9d4be-e6b1-434a-a2b7-05f471d5b65d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="345b1246-9144-618d-cd12-bf9ec46c6f05" executionId="730517fa-1fb3-4e9d-b45a-90714119b610" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30375c62-d150-2984-8713-9411dd4733da" executionId="42d0d7c3-39e0-4ec9-b659-baa832360395" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9390e305-674b-9e2c-e700-7ed08be1fda5" executionId="19885741-564e-4ed2-9b3e-db78e884789a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11caa729-24c7-79d9-7020-4f231434cad9" executionId="8d5765f9-3e21-4293-bccd-764eeae8c309" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4df4ef24-9be2-3997-372c-e921aa3d4e84" executionId="b34a5db6-9924-407b-873e-142c54acc615" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e8a655f3-87d1-405f-b051-cb336225f016" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="HARRY-PC" duration="00:00:00.0090152" startTime="2015-10-02T12:19:14.9882197-04:00" endTime="2015-10-02T12:19:16.1102838-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8a655f3-87d1-405f-b051-cb336225f016">
+    </UnitTestResult>
+    <UnitTestResult executionId="fbc5335a-66c9-4c7a-b02b-20ec386fe87b" testId="f3e19889-8189-0c97-7315-24fd8463fef8" testName="AlgorithmConstructorTest" computerName="HARRY-PC" duration="00:00:02.1271217" startTime="2015-10-02T12:19:16.1252847-04:00" endTime="2015-10-02T12:19:18.2524064-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fbc5335a-66c9-4c7a-b02b-20ec386fe87b">
+    </UnitTestResult>
+    <UnitTestResult executionId="0ed24b35-3e37-4160-ad70-f16b28ab40c5" testId="cd3ae5a1-387c-e07d-c26f-d538d3140eaa" testName="AddToDictionaryTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ed24b35-3e37-4160-ad70-f16b28ab40c5">
+    </UnitTestResult>
+    <UnitTestResult executionId="0e0b6588-513e-411c-987b-04dd296d9520" testId="740f9f46-4e0a-e5e2-5e49-457e004a3d15" testName="Carga_Segun_Escoria_MetalTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e0b6588-513e-411c-987b-04dd296d9520">
+    </UnitTestResult>
+    <UnitTestResult executionId="b4f9d4be-e6b1-434a-a2b7-05f471d5b65d" testId="f4df9678-d5a0-cf24-1594-17ea75adff6f" testName="Escoria_Segun_Carga_MetalTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4f9d4be-e6b1-434a-a2b7-05f471d5b65d">
+    </UnitTestResult>
+    <UnitTestResult executionId="730517fa-1fb3-4e9d-b45a-90714119b610" testId="345b1246-9144-618d-cd12-bf9ec46c6f05" testName="GenerateListTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="730517fa-1fb3-4e9d-b45a-90714119b610">
+    </UnitTestResult>
+    <UnitTestResult executionId="42d0d7c3-39e0-4ec9-b659-baa832360395" testId="30375c62-d150-2984-8713-9411dd4733da" testName="GenerateList2Test" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42d0d7c3-39e0-4ec9-b659-baa832360395">
+    </UnitTestResult>
+    <UnitTestResult executionId="19885741-564e-4ed2-9b3e-db78e884789a" testId="9390e305-674b-9e2c-e700-7ed08be1fda5" testName="GetFromDictionaryTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19885741-564e-4ed2-9b3e-db78e884789a">
+    </UnitTestResult>
+    <UnitTestResult executionId="8d5765f9-3e21-4293-bccd-764eeae8c309" testId="11caa729-24c7-79d9-7020-4f231434cad9" testName="OxidosDeCargasTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8d5765f9-3e21-4293-bccd-764eeae8c309">
+    </UnitTestResult>
+    <UnitTestResult executionId="b34a5db6-9924-407b-873e-142c54acc615" testId="4df4ef24-9be2-3997-372c-e921aa3d4e84" testName="ValorPonderadoTest" computerName="HARRY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b34a5db6-9924-407b-873e-142c54acc615">
+    </UnitTestResult>
+  </Results>
+</TestRun>

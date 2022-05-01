@@ -1,0 +1,464 @@
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\TMC.pdb
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Form1.resources
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\GenerateResource-ResGen.read.6.tlog
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.exe
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe.config
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\Antlr3.Runtime.dll
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\NCalc.dll
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\ACINOX.dll
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\bin\Debug\ACINOX.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\MCC.Tareas.FrmBCE.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+\\172.16.2.247\c$\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe.config
+\\172.16.2.247\c$\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.exe
+\\172.16.2.247\c$\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmManageProject.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\TMC.exe.config
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.exe
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.pdb
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\TMC.exe
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\TMC.pdb
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\ACINOX.dll
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+C:\Users\AC3R3KO\Desktop\TMC\TMC\bin\Debug\ACINOX.pdb
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmManageProject.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Form1.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\AC3R3KO\Desktop\TMC\TMC\obj\Debug\GenerateResource.write.1.tlog
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\TMC.exe.config
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\TMC.exe
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\TMC.pdb
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\ACINOX.dll
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\bin\Debug\ACINOX.pdb
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\ResolveAssemblyReference.cache
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmBalance.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmManageProject.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmNewPatron.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmOpenProject.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmProject.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.FrmAbout.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.FrmUser.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.FrmMain.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.FrmTrazas.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.FrmUserManager.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.XtraReport2.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\GenerateResource.read.1.tlog
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\GenerateResource.write.1.tlog
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.exe
+D:\ESCUELA\ASIGNATURAS\TESIS\MIO\PROYECTO\TMC\TMC\obj\Debug\TMC.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe.config
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\TMC.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\TMC.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\ACINOX.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\NCalc.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\bin\Debug\ACINOX.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmBalance.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmManageProject.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmNewPatron.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmOpenProject.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmProject.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.FrmAbout.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.FrmUser.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.FrmTrazas.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.FrmUserManager.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.XtraReport2.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.csproj.GenerateResource.Cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TMC\obj\Debug\TMC.pdb
+E:\TMC\TMC\bin\Debug\TMC.exe.config
+E:\TMC\TMC\bin\Debug\TMC.exe
+E:\TMC\TMC\bin\Debug\TMC.pdb
+E:\TMC\TMC\bin\Debug\ACINOX.dll
+E:\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+E:\TMC\TMC\bin\Debug\ACINOX.pdb
+E:\TMC\TMC\obj\Debug\ResolveAssemblyReference.cache
+E:\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmBalance.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmManageProject.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmNewPatron.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmOpenProject.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+E:\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmProject.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+E:\TMC\TMC\obj\Debug\TMC.FrmAbout.resources
+E:\TMC\TMC\obj\Debug\TMC.FrmUser.resources
+E:\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+E:\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+E:\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+E:\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+E:\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+E:\TMC\TMC\obj\Debug\TMC.FrmMain.resources
+E:\TMC\TMC\obj\Debug\TMC.General.FrmTrazas.resources
+E:\TMC\TMC\obj\Debug\TMC.General.FrmUserManager.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+E:\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+E:\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+E:\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+E:\TMC\TMC\obj\Debug\TMC.XtraReport2.resources
+E:\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+E:\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+E:\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+E:\TMC\TMC\obj\Debug\GenerateResource.read.1.tlog
+E:\TMC\TMC\obj\Debug\GenerateResource.write.1.tlog
+E:\TMC\TMC\obj\Debug\TMC.exe
+E:\TMC\TMC\obj\Debug\TMC.pdb
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\TMC.exe.config
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\TMC.exe
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\TMC.pdb
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\ACINOX.dll
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\NCalc.dll
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\Infralution.Licensing.dll
+D:\Projects\VisualStudio\TMC\TMC\bin\Debug\ACINOX.pdb
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmPropiedades.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Codificadores.FrmSettings.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.FrmMain.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmBalance.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmManageProject.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmNewPatron.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmOpenProject.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmPatron.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.BCE.Tareas.FrmProject.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmAddMaterial.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.FrmSettings.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCCompleteProperty.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCPropertyTempControl.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.TemperatureControl.UCTemperatureControl.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.FrmAbout.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.FrmUser.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmAcero.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmFormula.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmHornos.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.Codificadores.FrmMaterial.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTipoPieza.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Codificadores.FrmTratamiento.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.FrmMain.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmChooseFormula.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveEdit.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmCurveManager.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredecir.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmPredictPropiedades.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Prediccion.FrmViewPredecir.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmCalculoTT.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmDeterminarTT.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmEvalHorno.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.ACATTA.Tareas.FrmTanque.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.FormulateControl.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmAxisManager.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmEditPoint.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmManageSerie.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.FrmPointFromAxis.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.PointEditItem.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphControl.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCGraphDesigner.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Components.GraphControl.UCImageController.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.FrmMain.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.FrmTrazas.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.FrmUserManager.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmElemento_Oxido.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmGrado_PH.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Codificadores.FrmTipo_Formato.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\MCC.Codificadores.FrmVarianteMaterialConformado.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.FrmMain.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmCreateProject.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEditFormato.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmEstudio.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmGestor_Datos_MRA.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmOpenProject.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.SIAR.Tareas.FrmTempInicial.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.XtraReport1.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.XtraReport2.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.General.Reportes.FrmReporte.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmCirculacion_AM.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmMaquina.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Codificadores.FrmParametros.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.FrmMain.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmCreate.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmExploracion.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.MCC.Tareas.FrmSimulate.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.Properties.Resources.resources
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.exe
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.pdb
+D:\Projects\VisualStudio\TMC\TMC\obj\Debug\TMC.csprojResolveAssemblyReference.cache

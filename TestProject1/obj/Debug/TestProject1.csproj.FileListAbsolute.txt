@@ -1,0 +1,15 @@
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\ACINOX.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\NCalc.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TMC.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\Infralution.Licensing.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\ACINOX.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TMC.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\af-ZA\TMC.resources.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TMC_Accessor.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\bin\Debug\TMC_Accessor.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TMC\TestProject1\obj\Debug\TestProject1.pdb
